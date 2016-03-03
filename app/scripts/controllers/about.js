@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name transportApp.controller:AboutCtrl
+ * @name ratbApp.controller:AboutCtrl
  * @description
  * # AboutCtrl
- * Controller of the transportApp
+ * Controller of the ratbApp
  */
-angular.module('transportApp')
+angular.module('ratbApp')
   .controller('AboutCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',
