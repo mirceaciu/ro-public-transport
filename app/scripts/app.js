@@ -2,21 +2,20 @@
 
 /**
  * @ngdoc overview
- * @name ratbApp
+ * @name transportApp
  * @description
- * # ratbApp
+ * # transportApp
  *
  * Main module of the application.
  */
 angular
-  .module('ratbApp', [
+  .module('transportApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch',
-    'leaflet-directive'
+    'ngTouch'
   ])
   .config(function ($routeProvider) {
     $routeProvider

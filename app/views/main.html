@@ -1,32 +1,23 @@
-
-<div ng-init="masina.masina=41; masina.ruta=0; buttonRequest()" ng-controller="CenterMapCtrl as map" class="leaflet-containter" >
-
-<div class= "center-container" > 
-    
-	Alege masina: 	<select class="select-menu" ng-model="masina.masina">
-  				<option ng-repeat = "car in routeOptions " value="{{car}}">{{car}}</option>
-			</select>
-	
-	Alege ruta: 	<select class="select-menu" ng-model="masina.ruta">
-				<option  ng-repeat="route in directionsList"  value="{{route}}">Ruta: {{route + 1}}</option>
-			</select>
-
-			<button ng-click="buttonRequest()">Vizualizare</button>
-
-	<form class= "leaflet-form">
-       		 Latitude : <input class="select-menu max"  type="number" step="0.1" ng-model="center.lat">
-       		 Longitude : <input class="select-menu max" type="number" step="0.1" ng-model="center.lng">
-       		 Zoom : <input class="select-menu max" type="number" step="any" ng-model="center.zoom">
-	
-	</form>
-	<hr>
+<div class="jumbotron">
+  <h1>'Allo, 'Allo!</h1>
+  <p class="lead">
+    <img src="images/yeoman.png" alt="I'm Yeoman"><br>
+    Always a pleasure scaffolding your apps.
+  </p>
+  <p><a class="btn btn-lg btn-success" ng-href="#/">Splendid!<span class="glyphicon glyphicon-ok"></span></a></p>
 </div>
 
+<div class="row marketing">
+  <h4>HTML5 Boilerplate</h4>
+  <p>
+    HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.
+  </p>
 
+  <h4>Angular</h4>
+  <p>
+    AngularJS is a toolset for building the framework most suited to your application development.
+  </p>
 
-<leaflet center="center" width='100%' height='600' paths="paths"></leaflet>	
-	
-	
-	
-
+  <h4>Karma</h4>
+  <p>Spectacular Test Runner for JavaScript.</p>
 </div>
