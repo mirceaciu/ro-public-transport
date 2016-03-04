@@ -300,7 +300,12 @@ module.exports = function (grunt) {
           '<%= yeoman.dist %>/styles'
         ],
         patterns: {
-          js: [[/(images\/[^''""]*\.(png|jpg|jpeg|gif|webp|svg))/g, 'Replacing references to images']]
+          js: [[/(images\/[^''""]*\.(png|jpg|jpeg|gif|webp|svg))/g, 'Replacing references to images']],
+          css: [
+           [/(\/bower_components\/bootstrap\/dist\/fonts)/g, 'god help me', function(match) {
+             return match.replace('/bower_components/bootstrap/dist/fonts', '../fonts');
+           }]
+         ]
         }
       }
     },
