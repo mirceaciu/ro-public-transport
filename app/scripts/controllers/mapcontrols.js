@@ -11,7 +11,7 @@
 
 
 angular.module('transportApp')
-  .controller('MapcontrolsCtrl', [ '$scope' , '$routeParams', '$http', '$location', function($scope, $routeParams, $http, $location){
+  .controller('MapcontrolsCtrl', [ '$scope' , '$routeParams', '$http', '$location','leafletData', function($scope, $routeParams, $http, $location, leafletData){
 
 	$scope.isActive = function(route) {
         	return route === $location.path();
@@ -26,7 +26,36 @@ angular.module('transportApp')
 			scrollWheelZoom: false
 		}
 	});
+////route module
 
+$scope.route = function () {
+
+  var fromLng = 26.066632;
+  var fromLat = 44.428854;
+  var toLng = 26.170127;
+  var toLat = 44.436486;
+
+  // Get map object
+  leafletData.getMap().then(function(map) {
+
+    // fit map
+    map.fitBounds([[fromLat, fromLng], [toLat, toLng]]);
+
+    // clear route and controls
+
+
+    // add new routing
+    $scope.routingControl =  L.Routing.control({
+      waypoints: [
+      L.latLng(fromLat, fromLng),
+      L.latLng(toLat, toLng)
+  ]
+}).addTo(map);
+
+  });
+};
+
+////route module
 	$scope.buttonRequest = function(){
 		//$scope.masina.masina = $scope.car.name[0];
 		$http.get('data/masina-'+ $scope.masina.masina +'.json').success(function(route) {
