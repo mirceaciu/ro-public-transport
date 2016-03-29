@@ -97,7 +97,7 @@ angular.module('transportApp')
       $scope.currentRoute = $scope.routeData;
 
       //get all paths of route
-      $scope.pathCoordinates = $scope.currentRoute.features[0].geometry.coordinates;
+      $scope.pathCoordinates = $scope.currentRoute.coordinates;
 
       $scope.paths = {
         p1: {
