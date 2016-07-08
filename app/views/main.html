@@ -1,4 +1,4 @@
-<div ng-init="masina.masina=41; masina.ruta=0; routeRequest()" ng-controller="MapcontrolsCtrl as map" class="leaflet-containter" >
+<div ng-init="masina.masina='102-t'; masina.ruta=0; routeRequest()" ng-controller="MapcontrolsCtrl as map" class="leaflet-containter" >
   <div class= "center-container boss" >
     Alege masina: 	<select class="select-menu" ng-model="masina.masina">
                       <option ng-repeat = "car in routeOptions " value="{{car}}">{{car}}</option>

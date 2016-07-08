@@ -1,0 +1,137 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.4447019996976, 
+            "id_buster": "1171", 
+            "long": 26.075528400415408, 
+            "den": "GARA DE NORD"
+        }, 
+        {
+            "lat": 44.441968000422946, 
+            "id_buster": "966", 
+            "long": 26.07172059982588, 
+            "den": "WITING"
+        }, 
+        {
+            "lat": 44.437940400129435, 
+            "id_buster": "962", 
+            "long": 26.07038429989558, 
+            "den": "POD COTROCENI"
+        }, 
+        {
+            "lat": 44.43677443171578, 
+            "id_buster": "1458", 
+            "long": 26.072563290476808, 
+            "den": "SPITALUL UNIVERSITAR"
+        }, 
+        {
+            "lat": 44.43550890041547, 
+            "id_buster": "445", 
+            "long": 26.07506789986371, 
+            "den": "POD EROILOR"
+        }, 
+        {
+            "lat": 44.43366609961089, 
+            "id_buster": "92", 
+            "long": 26.08093899973511, 
+            "den": "FACULTATEA MEDICINA VETERINARA"
+        }, 
+        {
+            "lat": 44.43340090033132, 
+            "id_buster": "747", 
+            "long": 26.08484059961404, 
+            "den": "POD HASDEU"
+        }, 
+        {
+            "lat": 44.43306240000982, 
+            "id_buster": "750", 
+            "long": 26.090112199718305, 
+            "den": "POD IZVOR"
+        }, 
+        {
+            "lat": 44.42934099998723, 
+            "id_buster": "430", 
+            "long": 26.097166300184654, 
+            "den": "PIATA NATIUNILE UNITE"
+        }, 
+        {
+            "lat": 44.42743550024818, 
+            "id_buster": "605", 
+            "long": 26.1010311996302, 
+            "den": "PIATA UNIRII 1"
+        }, 
+        {
+            "lat": 44.426593099891704, 
+            "id_buster": "626", 
+            "long": 26.10487109972155, 
+            "den": "BD. I. C. BRATIANU"
+        }, 
+        {
+            "lat": 44.42625410044644, 
+            "id_buster": "736", 
+            "long": 26.112526299848923, 
+            "den": "BIBLIOTECA NATIONALA A ROMANIE"
+        }, 
+        {
+            "lat": 44.42590609968681, 
+            "id_buster": "752", 
+            "long": 26.119830800351224, 
+            "den": "TRAIAN"
+        }, 
+        {
+            "lat": 44.425736099941105, 
+            "id_buster": "741", 
+            "long": 26.12378720041903, 
+            "den": "LUCIAN BLAGA"
+        }, 
+        {
+            "lat": 44.42344949989456, 
+            "id_buster": "961", 
+            "long": 26.123006499850135, 
+            "den": "PIATA VITAN"
+        }, 
+        {
+            "lat": 44.4203376001002, 
+            "id_buster": "957", 
+            "long": 26.125474199974406, 
+            "den": "BUCURESTI MALL"
+        }, 
+        {
+            "lat": 44.417436100295845, 
+            "id_buster": "967", 
+            "long": 26.12898679990093, 
+            "den": "ZIZIN"
+        }, 
+        {
+            "lat": 44.414207699625706, 
+            "id_buster": "958", 
+            "long": 26.13312339982508, 
+            "den": "CALEA VITAN"
+        }, 
+        {
+            "lat": 44.41125749973389, 
+            "id_buster": "965", 
+            "long": 26.135893700234135, 
+            "den": "STADION OLIMPIA"
+        }, 
+        {
+            "lat": 44.4089389000103, 
+            "id_buster": "959", 
+            "long": 26.13908490044787, 
+            "den": "COMPLEX COMERCIAL VITAN"
+        }, 
+        {
+            "lat": 44.4068582995709, 
+            "id_buster": "963", 
+            "long": 26.145630800321214, 
+            "den": "ENERGETICIENILOR"
+        }, 
+        {
+            "lat": 44.4057335004008, 
+            "id_buster": "692", 
+            "long": 26.148108400182593, 
+            "den": "C.E.T. SUD VITAN"
+        }
+    ]
+}

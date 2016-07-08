@@ -1,0 +1,83 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.405719800128736, 
+            "id_buster": "1034", 
+            "long": 25.99055070035456, 
+            "den": "COMPLEX CARTIER LATIN"
+        }, 
+        {
+            "lat": 44.40775359984883, 
+            "id_buster": "1031", 
+            "long": 25.990135600277767, 
+            "den": "CARTIERUL LATIN"
+        }, 
+        {
+            "lat": 44.408889799724534, 
+            "id_buster": "1039", 
+            "long": 25.993868699580844, 
+            "den": "MAGNOLIEI"
+        }, 
+        {
+            "lat": 44.409741999993344, 
+            "id_buster": "1037", 
+            "long": 25.998645599714678, 
+            "den": "DRUMUL FUNIGEILOR"
+        }, 
+        {
+            "lat": 44.41014299959983, 
+            "id_buster": "1040", 
+            "long": 26.00198790042134, 
+            "den": "SERE MILITARI"
+        }, 
+        {
+            "lat": 44.410813999966194, 
+            "id_buster": "1029", 
+            "long": 26.007562500109316, 
+            "den": "ANSAMBLUL PRIMAVARA"
+        }, 
+        {
+            "lat": 44.4113286999596, 
+            "id_buster": "1036", 
+            "long": 26.011717199789018, 
+            "den": "COSTISA"
+        }, 
+        {
+            "lat": 44.41197539974496, 
+            "id_buster": "79", 
+            "long": 26.01716970032146, 
+            "den": "VALEA OLTULUI"
+        }, 
+        {
+            "lat": 44.41260699991318, 
+            "id_buster": "758", 
+            "long": 26.022305900297113, 
+            "den": "GHIDIGENI"
+        }, 
+        {
+            "lat": 44.41311099977287, 
+            "id_buster": "760", 
+            "long": 26.026363600000195, 
+            "den": "RAUL DOAMNEI"
+        }, 
+        {
+            "lat": 44.41370119965069, 
+            "id_buster": "757", 
+            "long": 26.031311900124138, 
+            "den": "DRUMUL COOPERATIVEI"
+        }, 
+        {
+            "lat": 44.414099899690655, 
+            "id_buster": "762", 
+            "long": 26.03426720007127, 
+            "den": "BRASOV"
+        }, 
+        {
+            "lat": 44.415097399825186, 
+            "id_buster": "1292", 
+            "long": 26.046187099555027, 
+            "den": "GHENCEA"
+        }
+    ]
+}

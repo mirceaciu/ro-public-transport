@@ -1,0 +1,137 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.43645489997368, 
+            "id_buster": "977", 
+            "long": 26.074293599769874, 
+            "den": "STIRBEI VODA"
+        }, 
+        {
+            "lat": 44.436500599922795, 
+            "id_buster": "196", 
+            "long": 26.065716500116423, 
+            "den": "GRADINA BOTANICA"
+        }, 
+        {
+            "lat": 44.43461880001769, 
+            "id_buster": "314", 
+            "long": 26.05813620002567, 
+            "den": "PIATA LEUL"
+        }, 
+        {
+            "lat": 44.434550400280784, 
+            "id_buster": "1313", 
+            "long": 26.053579399969408, 
+            "den": "BD. G-RAL VASILE MILEA"
+        }, 
+        {
+            "lat": 44.43448239984292, 
+            "id_buster": "194", 
+            "long": 26.048261300418744, 
+            "den": "U.P.B."
+        }, 
+        {
+            "lat": 44.43438420017077, 
+            "id_buster": "1311", 
+            "long": 26.04175110003331, 
+            "den": "LICEUL TUDOR VLADIMIRESCU"
+        }, 
+        {
+            "lat": 44.43433040002799, 
+            "id_buster": "312", 
+            "long": 26.033880600409418, 
+            "den": "LUJERULUI"
+        }, 
+        {
+            "lat": 44.434276900258794, 
+            "id_buster": "836", 
+            "long": 26.02878290041059, 
+            "den": "VETERANILOR"
+        }, 
+        {
+            "lat": 44.43421540012065, 
+            "id_buster": "838", 
+            "long": 26.023502299891277, 
+            "den": "RASARITULUI"
+        }, 
+        {
+            "lat": 44.434136800273166, 
+            "id_buster": "316", 
+            "long": 26.019369999625837, 
+            "den": "PIATA GORJULUI"
+        }, 
+        {
+            "lat": 44.43404030031968, 
+            "id_buster": "252", 
+            "long": 26.01519420005235, 
+            "den": "VALEA LUNGA"
+        }, 
+        {
+            "lat": 44.43399110020914, 
+            "id_buster": "168", 
+            "long": 26.012195700271377, 
+            "den": "APUSULUI"
+        }, 
+        {
+            "lat": 44.433916700195596, 
+            "id_buster": "318", 
+            "long": 26.005551599826504, 
+            "den": "VALEA CASCADELOR"
+        }, 
+        {
+            "lat": 44.43387379983602, 
+            "id_buster": "1356", 
+            "long": 26.000934600051778, 
+            "den": "IMPRIMERIA NATIONALA"
+        }, 
+        {
+            "lat": 44.43385029965168, 
+            "id_buster": "320", 
+            "long": 25.997803999754808, 
+            "den": "MASTER"
+        }, 
+        {
+            "lat": 44.43429349994511, 
+            "id_buster": "1360", 
+            "long": 25.99188059980986, 
+            "den": "NUFARUL"
+        }, 
+        {
+            "lat": 44.43475150038148, 
+            "id_buster": "1357", 
+            "long": 25.98643060029201, 
+            "den": "METRO MILITARI"
+        }, 
+        {
+            "lat": 44.43509840037092, 
+            "id_buster": "1354", 
+            "long": 25.982340099615953, 
+            "den": "VICTORIA"
+        }, 
+        {
+            "lat": 44.43567149964002, 
+            "id_buster": "1352", 
+            "long": 25.97560539966952, 
+            "den": "GRUP SCOLAR AUTO"
+        }, 
+        {
+            "lat": 44.43805395503866, 
+            "id_buster": "1900", 
+            "long": 25.959204184501047, 
+            "den": "CARREFOUR MILITARI"
+        }, 
+        {
+            "lat": 44.43842640005835, 
+            "id_buster": "1332", 
+            "long": 25.96612960030086, 
+            "den": "SOSEAUA DE CENTURA"
+        }, 
+        {
+            "lat": 44.43563360041037, 
+            "id_buster": "1336", 
+            "long": 25.958161800326877, 
+            "den": "COMPLEX COMERCIAL WEST PARK"
+        }
+    ]
+}

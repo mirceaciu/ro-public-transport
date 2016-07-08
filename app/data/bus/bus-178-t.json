@@ -1,0 +1,167 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.442432899558696, 
+            "id_buster": "1391", 
+            "long": 25.987276200436327, 
+            "den": "CARTIER MILITARI"
+        }, 
+        {
+            "lat": 44.434529400211716, 
+            "id_buster": "1358", 
+            "long": 25.987674799752256, 
+            "den": "METRO MILITARI"
+        }, 
+        {
+            "lat": 44.434132399890416, 
+            "id_buster": "1359", 
+            "long": 25.992401899927813, 
+            "den": "NUFARUL"
+        }, 
+        {
+            "lat": 44.433728599795074, 
+            "id_buster": "310", 
+            "long": 25.99792929959756, 
+            "den": "MASTER"
+        }, 
+        {
+            "lat": 44.433756600186996, 
+            "id_buster": "1355", 
+            "long": 26.00147480032183, 
+            "den": "IMPRIMERIA NATIONALA"
+        }, 
+        {
+            "lat": 44.43378220028836, 
+            "id_buster": "307", 
+            "long": 26.006716700315508, 
+            "den": "AUTOGARA MILITARI"
+        }, 
+        {
+            "lat": 44.43451940078277, 
+            "id_buster": "1865", 
+            "long": 26.01172356109584, 
+            "den": "BD. IULIU MANIU"
+        }, 
+        {
+            "lat": 44.43821292626818, 
+            "id_buster": "1867", 
+            "long": 26.014907821631617, 
+            "den": "COMPLEX COMERCIAL APUSULUI"
+        }, 
+        {
+            "lat": 44.44137519970576, 
+            "id_buster": "823", 
+            "long": 26.017704599987326, 
+            "den": "ARAGONITULUI"
+        }, 
+        {
+            "lat": 44.443391799891685, 
+            "id_buster": "825", 
+            "long": 26.020012499577263, 
+            "den": "BD.UVERTURII"
+        }, 
+        {
+            "lat": 44.441832999593316, 
+            "id_buster": "828", 
+            "long": 26.022610200300562, 
+            "den": "CIMITIRUL MILITARI"
+        }, 
+        {
+            "lat": 44.440301699663735, 
+            "id_buster": "826", 
+            "long": 26.026013699872408, 
+            "den": "DEZROBIRII"
+        }, 
+        {
+            "lat": 44.43812360012407, 
+            "id_buster": "834", 
+            "long": 26.030744300209335, 
+            "den": "TEATRUL MASCA"
+        }, 
+        {
+            "lat": 44.43646829987222, 
+            "id_buster": "832", 
+            "long": 26.034331999821973, 
+            "den": "PASAJ LUJERULUI"
+        }, 
+        {
+            "lat": 44.44060709696156, 
+            "id_buster": "1869", 
+            "long": 26.035488542278166, 
+            "den": "ORSOVA"
+        }, 
+        {
+            "lat": 44.44651675985043, 
+            "id_buster": "1765", 
+            "long": 26.038822234409913, 
+            "den": "POD CIUREL"
+        }, 
+        {
+            "lat": 44.452530599907334, 
+            "id_buster": "437", 
+            "long": 26.04775500009322, 
+            "den": "PIATA CRANGASI"
+        }, 
+        {
+            "lat": 44.45357042274047, 
+            "id_buster": "1837", 
+            "long": 26.052222718880245, 
+            "den": "BD. CEAHLAU"
+        }, 
+        {
+            "lat": 44.453276984579524, 
+            "id_buster": "1838", 
+            "long": 26.057630715461748, 
+            "den": "PASAJ GRANT"
+        }, 
+        {
+            "lat": 44.45002329284233, 
+            "id_buster": "1840", 
+            "long": 26.061024488126975, 
+            "den": "SPITALUL DR. PANAIT SARBU"
+        }, 
+        {
+            "lat": 44.448167799804196, 
+            "id_buster": "777", 
+            "long": 26.06534829968433, 
+            "den": "CALEA PLEVNEI"
+        }, 
+        {
+            "lat": 44.44912649958832, 
+            "id_buster": "787", 
+            "long": 26.06894649978119, 
+            "den": "GARA BASARAB"
+        }, 
+        {
+            "lat": 44.44549419989744, 
+            "id_buster": "513", 
+            "long": 26.07436060016164, 
+            "den": "GARA DE NORD"
+        }, 
+        {
+            "lat": 44.44182038438126, 
+            "id_buster": "1870", 
+            "long": 26.079923598356796, 
+            "den": "PIATA VIRGILIU"
+        }, 
+        {
+            "lat": 44.44014979967358, 
+            "id_buster": "1435", 
+            "long": 26.085153099635875, 
+            "den": "CONSTANTIN CRISTESCU"
+        }, 
+        {
+            "lat": 44.43984749976238, 
+            "id_buster": "1043", 
+            "long": 26.089743599987173, 
+            "den": "CISMIGIU"
+        }, 
+        {
+            "lat": 44.437896248089025, 
+            "id_buster": "1871", 
+            "long": 26.09482951183423, 
+            "den": "SALA PALATULUI"
+        }
+    ]
+}

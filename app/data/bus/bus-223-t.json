@@ -1,0 +1,77 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.405882900275685, 
+            "id_buster": "697", 
+            "long": 26.148796600083074, 
+            "den": "C.E.T. SUD VITAN"
+        }, 
+        {
+            "lat": 44.40719100016457, 
+            "id_buster": "964", 
+            "long": 26.144652999836126, 
+            "den": "ENERGETICIENILOR"
+        }, 
+        {
+            "lat": 44.4089389000103, 
+            "id_buster": "959", 
+            "long": 26.13908490044787, 
+            "den": "COMPLEX COMERCIAL VITAN"
+        }, 
+        {
+            "lat": 44.41125749973389, 
+            "id_buster": "965", 
+            "long": 26.135893700234135, 
+            "den": "STADION OLIMPIA"
+        }, 
+        {
+            "lat": 44.41461518227323, 
+            "id_buster": "1893", 
+            "long": 26.132062366279357, 
+            "den": "SOSEAUA MIHAI BRAVU"
+        }, 
+        {
+            "lat": 44.41191059999426, 
+            "id_buster": "1212", 
+            "long": 26.127353800137826, 
+            "den": "PENES CURCANUL"
+        }, 
+        {
+            "lat": 44.408702108517005, 
+            "id_buster": "1611", 
+            "long": 26.122796810996352, 
+            "den": "POD MIHAI BRAVU"
+        }, 
+        {
+            "lat": 44.403475053592, 
+            "id_buster": "1623", 
+            "long": 26.14167496527773, 
+            "den": "POD VITAN BARZESTI"
+        }, 
+        {
+            "lat": 44.39887043037039, 
+            "id_buster": "1621", 
+            "long": 26.159828743634794, 
+            "den": "INTRAREA SERELOR"
+        }, 
+        {
+            "lat": 44.39546939754697, 
+            "id_buster": "1619", 
+            "long": 26.17331808262862, 
+            "den": "SERE"
+        }, 
+        {
+            "lat": 44.39390210413033, 
+            "id_buster": "1618", 
+            "long": 26.184553807635638, 
+            "den": "TABEREI"
+        }, 
+        {
+            "lat": 44.39464705746998, 
+            "id_buster": "1616", 
+            "long": 26.20157777016887, 
+            "den": "CARTIER REZ. SPLAIUL UNIRII"
+        }
+    ]
+}

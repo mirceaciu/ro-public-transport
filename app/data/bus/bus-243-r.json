@@ -1,0 +1,83 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.464680900303335, 
+            "id_buster": "541", 
+            "long": 26.12641510037662, 
+            "den": "BD. LACUL TEI"
+        }, 
+        {
+            "lat": 44.46119389957886, 
+            "id_buster": "1390", 
+            "long": 26.134151199917994, 
+            "den": "SOSEAUA COLENTINA"
+        }, 
+        {
+            "lat": 44.45904929978542, 
+            "id_buster": "155", 
+            "long": 26.136688000351, 
+            "den": "CONSTANTA"
+        }, 
+        {
+            "lat": 44.457058299700805, 
+            "id_buster": "153", 
+            "long": 26.139053100420313, 
+            "den": "SCUT - GHERASE"
+        }, 
+        {
+            "lat": 44.45555230039838, 
+            "id_buster": "1380", 
+            "long": 26.144157799842617, 
+            "den": "SCOALA GENERALA 145"
+        }, 
+        {
+            "lat": 44.45395650019236, 
+            "id_buster": "1383", 
+            "long": 26.149230600312023, 
+            "den": "RAUL COLENTINA"
+        }, 
+        {
+            "lat": 44.45193680004331, 
+            "id_buster": "1384", 
+            "long": 26.151794699665686, 
+            "den": "DIMITRIE GROZDEA"
+        }, 
+        {
+            "lat": 44.446601000036196, 
+            "id_buster": "1386", 
+            "long": 26.15547330005279, 
+            "den": "TORENTULUI"
+        }, 
+        {
+            "lat": 44.442690299917444, 
+            "id_buster": "727", 
+            "long": 26.158892900187254, 
+            "den": "BD. CHISINAU"
+        }, 
+        {
+            "lat": 44.442361600407594, 
+            "id_buster": "719", 
+            "long": 26.16707200037257, 
+            "den": "SOSEAUA MORARILOR"
+        }, 
+        {
+            "lat": 44.44175639983803, 
+            "id_buster": "716", 
+            "long": 26.17529149990287, 
+            "den": "SPITALUL PANTELIMON"
+        }, 
+        {
+            "lat": 44.440593300340595, 
+            "id_buster": "754", 
+            "long": 26.18198559995551, 
+            "den": "GRANITUL"
+        }, 
+        {
+            "lat": 44.43913190021709, 
+            "id_buster": "693", 
+            "long": 26.187575800183083, 
+            "den": "CORA PANTELIMON"
+        }
+    ]
+}

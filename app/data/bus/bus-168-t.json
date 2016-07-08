@@ -1,0 +1,149 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.44625080043414, 
+            "id_buster": "1144", 
+            "long": 26.097194600050784, 
+            "den": "PIATA ROMANA"
+        }, 
+        {
+            "lat": 44.445393500110015, 
+            "id_buster": "1180", 
+            "long": 26.09073220043075, 
+            "den": "CALEA VICTORIEI"
+        }, 
+        {
+            "lat": 44.44463669992382, 
+            "id_buster": "1179", 
+            "long": 26.08854969960902, 
+            "den": "CALEA GRIVITEI"
+        }, 
+        {
+            "lat": 44.44330519967525, 
+            "id_buster": "1197", 
+            "long": 26.083722700042642, 
+            "den": "POPA TATU"
+        }, 
+        {
+            "lat": 44.442402999798674, 
+            "id_buster": "1283", 
+            "long": 26.08076449978188, 
+            "den": "MIRCEA VULCANESCU"
+        }, 
+        {
+            "lat": 44.439818400398906, 
+            "id_buster": "1284", 
+            "long": 26.080635099929964, 
+            "den": "BERZEI"
+        }, 
+        {
+            "lat": 44.43726279963852, 
+            "id_buster": "1285", 
+            "long": 26.076877200022807, 
+            "den": "STIRBEI VODA"
+        }, 
+        {
+            "lat": 44.436137200071755, 
+            "id_buster": "1242", 
+            "long": 26.06663130039425, 
+            "den": "BD. DR.MARINESCU"
+        }, 
+        {
+            "lat": 44.4330706000282, 
+            "id_buster": "1010", 
+            "long": 26.070848799732346, 
+            "den": "CAROL DAVILA"
+        }, 
+        {
+            "lat": 44.4294692001435, 
+            "id_buster": "1234", 
+            "long": 26.064012700325918, 
+            "den": "SOSEAUA PANDURILOR"
+        }, 
+        {
+            "lat": 44.428220600300506, 
+            "id_buster": "1237", 
+            "long": 26.060486099753746, 
+            "den": "DRUMUL SARII"
+        }, 
+        {
+            "lat": 44.4261634362814, 
+            "id_buster": "1827", 
+            "long": 26.057649520651886, 
+            "den": "LT. NICOLAE GAINA"
+        }, 
+        {
+            "lat": 44.42536080026076, 
+            "id_buster": "781", 
+            "long": 26.05171469977364, 
+            "den": "ORIZONT"
+        }, 
+        {
+            "lat": 44.42425169965628, 
+            "id_buster": "778", 
+            "long": 26.04633460006181, 
+            "den": "FAVORIT"
+        }, 
+        {
+            "lat": 44.42317139984027, 
+            "id_buster": "770", 
+            "long": 26.041366600288427, 
+            "den": "DRUMUL TABEREI 34"
+        }, 
+        {
+            "lat": 44.42239530020299, 
+            "id_buster": "766", 
+            "long": 26.03624940028965, 
+            "den": "PIATA DRUMUL TABEREI"
+        }, 
+        {
+            "lat": 44.4226027000546, 
+            "id_buster": "1058", 
+            "long": 26.029740699973388, 
+            "den": "POIANA MUNTELUI"
+        }, 
+        {
+            "lat": 44.4229208999796, 
+            "id_buster": "7", 
+            "long": 26.02753219975125, 
+            "den": "ROMANCIERILOR"
+        }, 
+        {
+            "lat": 44.420324700224796, 
+            "id_buster": "673", 
+            "long": 26.019913399683674, 
+            "den": "PIATA VALEA IALOMITEI"
+        }, 
+        {
+            "lat": 44.41677980024764, 
+            "id_buster": "1240", 
+            "long": 26.02039600017531, 
+            "den": "POSTA"
+        }, 
+        {
+            "lat": 44.41593079976667, 
+            "id_buster": "1239", 
+            "long": 26.015530599557565, 
+            "den": "VALEA ARGESULUI"
+        }, 
+        {
+            "lat": 44.41900615196293, 
+            "id_buster": "1849", 
+            "long": 26.013193811158565, 
+            "den": "VALEA DOFTANEI"
+        }, 
+        {
+            "lat": 44.4185025001903, 
+            "id_buster": "1413", 
+            "long": 26.00743179983772, 
+            "den": "PARCUL CONSTANTIN BRANCUSI"
+        }, 
+        {
+            "lat": 44.41901314461782, 
+            "id_buster": "1850", 
+            "long": 26.002596587725932, 
+            "den": "CARTIER CONSTANTIN BRANCUSI"
+        }
+    ]
+}

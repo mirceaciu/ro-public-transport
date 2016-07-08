@@ -1,0 +1,89 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.41537189989333, 
+            "id_buster": "1044", 
+            "long": 26.046567000166988, 
+            "den": "GHENCEA"
+        }, 
+        {
+            "lat": 44.415132399640584, 
+            "id_buster": "1030", 
+            "long": 26.04263799974393, 
+            "den": "CARTIER TUDOR VLADIMIRESCU"
+        }, 
+        {
+            "lat": 44.414099899690655, 
+            "id_buster": "762", 
+            "long": 26.03426720007127, 
+            "den": "BRASOV"
+        }, 
+        {
+            "lat": 44.41358159971111, 
+            "id_buster": "756", 
+            "long": 26.030357699648164, 
+            "den": "DRUMUL COOPERATIVEI"
+        }, 
+        {
+            "lat": 44.41287949988907, 
+            "id_buster": "759", 
+            "long": 26.02450340001195, 
+            "den": "PRELUNGIREA GHENCEA"
+        }, 
+        {
+            "lat": 44.41260699991318, 
+            "id_buster": "758", 
+            "long": 26.022305900297113, 
+            "den": "GHIDIGENI"
+        }, 
+        {
+            "lat": 44.41212440032086, 
+            "id_buster": "761", 
+            "long": 26.018445699809263, 
+            "den": "VALEA OLTULUI"
+        }, 
+        {
+            "lat": 44.411188199775665, 
+            "id_buster": "1035", 
+            "long": 26.01058280035602, 
+            "den": "COSTISA"
+        }, 
+        {
+            "lat": 44.410740986446406, 
+            "id_buster": "1028", 
+            "long": 26.00673538841918, 
+            "den": "ANSAMBLUL PRIMAVARA"
+        }, 
+        {
+            "lat": 44.41014299959983, 
+            "id_buster": "1040", 
+            "long": 26.00198790042134, 
+            "den": "SERE MILITARI"
+        }, 
+        {
+            "lat": 44.409741999993344, 
+            "id_buster": "1037", 
+            "long": 25.998645599714678, 
+            "den": "DRUMUL FUNIGEILOR"
+        }, 
+        {
+            "lat": 44.408889799724534, 
+            "id_buster": "1039", 
+            "long": 25.993868699580844, 
+            "den": "MAGNOLIEI"
+        }, 
+        {
+            "lat": 44.40775359984883, 
+            "id_buster": "1031", 
+            "long": 25.990135600277767, 
+            "den": "CARTIERUL LATIN"
+        }, 
+        {
+            "lat": 44.405719800128736, 
+            "id_buster": "1034", 
+            "long": 25.99055070035456, 
+            "den": "COMPLEX CARTIER LATIN"
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.44811549973059, 
+            "id_buster": "1412", 
+            "long": 26.07666370006973, 
+            "den": "GARA DE NORD"
+        }, 
+        {
+            "lat": 44.45043439982777, 
+            "id_buster": "517", 
+            "long": 26.07719449972643, 
+            "den": "G-RAL  ALEXANDRU CERNAT"
+        }, 
+        {
+            "lat": 44.45186099978537, 
+            "id_buster": "518", 
+            "long": 26.07283450011215, 
+            "den": "PETRU RARES"
+        }, 
+        {
+            "lat": 44.45248099959849, 
+            "id_buster": "560", 
+            "long": 26.074482700216493, 
+            "den": "BD. BANU MANTA"
+        }, 
+        {
+            "lat": 44.45201420019521, 
+            "id_buster": "561", 
+            "long": 26.07995689959131, 
+            "den": "DR. FELIX"
+        }, 
+        {
+            "lat": 44.452447099653966, 
+            "id_buster": "564", 
+            "long": 26.091641899753938, 
+            "den": "PASAJ VICTORIA"
+        }, 
+        {
+            "lat": 44.45356950033221, 
+            "id_buster": "566", 
+            "long": 26.098386299787933, 
+            "den": "PERLA"
+        }, 
+        {
+            "lat": 44.45809129967381, 
+            "id_buster": "576", 
+            "long": 26.09573920020398, 
+            "den": "LICEUL ION LUCA CARAGIALE"
+        }, 
+        {
+            "lat": 44.46169690029177, 
+            "id_buster": "531", 
+            "long": 26.09483710015212, 
+            "den": "PIATA DOROBANTILOR"
+        }, 
+        {
+            "lat": 44.464308099839, 
+            "id_buster": "532", 
+            "long": 26.09566719958167, 
+            "den": "SALA LUCIAN GRIGORESCU"
+        }, 
+        {
+            "lat": 44.46593379980504, 
+            "id_buster": "535", 
+            "long": 26.101692099710704, 
+            "den": "CALEA FLOREASCA"
+        }, 
+        {
+            "lat": 44.4654388003604, 
+            "id_buster": "538", 
+            "long": 26.10588220030337, 
+            "den": "GARIBALDI"
+        }, 
+        {
+            "lat": 44.46434270035542, 
+            "id_buster": "534", 
+            "long": 26.10810430007342, 
+            "den": "BARBU VACARESCU"
+        }, 
+        {
+            "lat": 44.46195789973734, 
+            "id_buster": "552", 
+            "long": 26.107385599665747, 
+            "den": "MIHAIL GLINKA"
+        }, 
+        {
+            "lat": 44.46053300039773, 
+            "id_buster": "557", 
+            "long": 26.106942900294655, 
+            "den": "ROSSINI"
+        }, 
+        {
+            "lat": 44.45717369980645, 
+            "id_buster": "540", 
+            "long": 26.106611500120664, 
+            "den": "BD. LACUL TEI"
+        }, 
+        {
+            "lat": 44.45809360013959, 
+            "id_buster": "543", 
+            "long": 26.109061200314216, 
+            "den": "CIRCUL BUCURESTI"
+        }, 
+        {
+            "lat": 44.4592692002135, 
+            "id_buster": "546", 
+            "long": 26.1121915002376, 
+            "den": "LUIGI GALVANI"
+        }, 
+        {
+            "lat": 44.461998800004665, 
+            "id_buster": "549", 
+            "long": 26.119515700389286, 
+            "den": "MAICA DOMNULUI"
+        }, 
+        {
+            "lat": 44.4636590995878, 
+            "id_buster": "545", 
+            "long": 26.124070299804544, 
+            "den": "INSTITUTUL DE CONSTRUCTII"
+        }, 
+        {
+            "lat": 44.463889200126516, 
+            "id_buster": "580", 
+            "long": 26.12605969999521, 
+            "den": "TEIUL DOAMNEI"
+        }, 
+        {
+            "lat": 44.46000920016451, 
+            "id_buster": "573", 
+            "long": 26.126816500181405, 
+            "den": "GRIGORE IONESCU"
+        }, 
+        {
+            "lat": 44.45855039998105, 
+            "id_buster": "460", 
+            "long": 26.131185199837148, 
+            "den": "SUVEICA"
+        }, 
+        {
+            "lat": 44.461319399970364, 
+            "id_buster": "154", 
+            "long": 26.13295039994108, 
+            "den": "DOAMNA GHICA"
+        }, 
+        {
+            "lat": 44.4646039003498, 
+            "id_buster": "491", 
+            "long": 26.135039499873074, 
+            "den": "CREMENITA (PIATA COLENTINA)"
+        }, 
+        {
+            "lat": 44.467238500256656, 
+            "id_buster": "505", 
+            "long": 26.139853499739274, 
+            "den": "RAUL COLENTINA"
+        }, 
+        {
+            "lat": 44.4685544997904, 
+            "id_buster": "571", 
+            "long": 26.14371489992277, 
+            "den": "CARTIER COLENTINA"
+        }, 
+        {
+            "lat": 44.46655190025007, 
+            "id_buster": "579", 
+            "long": 26.14727770000593, 
+            "den": "RADOVANU"
+        }, 
+        {
+            "lat": 44.46491469975365, 
+            "id_buster": "577", 
+            "long": 26.150132200340806, 
+            "den": "ITCANI"
+        }, 
+        {
+            "lat": 44.463388900077746, 
+            "id_buster": "582", 
+            "long": 26.153790600156128, 
+            "den": "SPITALUL FUNDENI"
+        }, 
+        {
+            "lat": 44.46276549992791, 
+            "id_buster": "74", 
+            "long": 26.155917399668283, 
+            "den": "INSTITUTUL ONCOLOGIC"
+        }, 
+        {
+            "lat": 44.461984099686504, 
+            "id_buster": "578", 
+            "long": 26.15916790027842, 
+            "den": "LICEUL VICTOR BABES"
+        }, 
+        {
+            "lat": 44.46276549992791, 
+            "id_buster": "74", 
+            "long": 26.155917399668283, 
+            "den": "INSTITUTUL ONCOLOGIC"
+        }
+    ]
+}

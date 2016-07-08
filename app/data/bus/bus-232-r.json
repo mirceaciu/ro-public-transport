@@ -1,0 +1,143 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.42657819992405, 
+            "id_buster": "931", 
+            "long": 26.100314100015737, 
+            "den": "PIATA UNIRII"
+        }, 
+        {
+            "lat": 44.42424940008982, 
+            "id_buster": "933", 
+            "long": 26.095753399599744, 
+            "den": "11 IUNIE"
+        }, 
+        {
+            "lat": 44.419763999908696, 
+            "id_buster": "1082", 
+            "long": 26.09514419974505, 
+            "den": "PARCUL CAROL I"
+        }, 
+        {
+            "lat": 44.41548279979145, 
+            "id_buster": "1083", 
+            "long": 26.092630299648647, 
+            "den": "AUTOGARA FILARET"
+        }, 
+        {
+            "lat": 44.4105060999766, 
+            "id_buster": "1084", 
+            "long": 26.08943429975318, 
+            "den": "INCLINATA"
+        }, 
+        {
+            "lat": 44.407314000440806, 
+            "id_buster": "1085", 
+            "long": 26.09260740021142, 
+            "den": "STEFAN HEPITES"
+        }, 
+        {
+            "lat": 44.40462050033585, 
+            "id_buster": "1100", 
+            "long": 26.09640210037668, 
+            "den": "PIATA EROII REVOLUTIEI"
+        }, 
+        {
+            "lat": 44.400985199607305, 
+            "id_buster": "902", 
+            "long": 26.10066319974692, 
+            "den": "CIMITIRUL SERBAN VODA"
+        }, 
+        {
+            "lat": 44.399695300198005, 
+            "id_buster": "917", 
+            "long": 26.10552829999108, 
+            "den": "OPRIS ILIE"
+        }, 
+        {
+            "lat": 44.39775140030696, 
+            "id_buster": "1092", 
+            "long": 26.110732500404595, 
+            "den": "BD. CONSTANTIN BRANCOVEANU"
+        }, 
+        {
+            "lat": 44.395492600103466, 
+            "id_buster": "1098", 
+            "long": 26.11661559993007, 
+            "den": "HUSI"
+        }, 
+        {
+            "lat": 44.392342900004905, 
+            "id_buster": "1101", 
+            "long": 26.12273909992956, 
+            "den": "PIATA SUDULUI"
+        }, 
+        {
+            "lat": 44.38902399965792, 
+            "id_buster": "1088", 
+            "long": 26.12581980044348, 
+            "den": "AMIRO"
+        }, 
+        {
+            "lat": 44.3859637002646, 
+            "id_buster": "1105", 
+            "long": 26.128710100091098, 
+            "den": "SPITALUL DR. MARINESCU"
+        }, 
+        {
+            "lat": 44.38264279982542, 
+            "id_buster": "1106", 
+            "long": 26.131847699811544, 
+            "den": "TOMESTI"
+        }, 
+        {
+            "lat": 44.3795984004459, 
+            "id_buster": "1093", 
+            "long": 26.13249339955081, 
+            "den": "CARTIER APARATORII PATRIEI"
+        }, 
+        {
+            "lat": 44.3790916000973, 
+            "id_buster": "1096", 
+            "long": 26.12679249997393, 
+            "den": "EMIL RACOVITA"
+        }, 
+        {
+            "lat": 44.378142399851924, 
+            "id_buster": "1094", 
+            "long": 26.12403799975391, 
+            "den": "CICEU"
+        }, 
+        {
+            "lat": 44.37622269981779, 
+            "id_buster": "1102", 
+            "long": 26.12058739998855, 
+            "den": "PLATFORMA  METALURGIEI"
+        }, 
+        {
+            "lat": 44.37286869983069, 
+            "id_buster": "1095", 
+            "long": 26.1221971999409, 
+            "den": "EDITURA ARAMIS"
+        }, 
+        {
+            "lat": 44.37036599989102, 
+            "id_buster": "1103", 
+            "long": 26.123400199659557, 
+            "den": "SERE"
+        }, 
+        {
+            "lat": 44.365702099572275, 
+            "id_buster": "1099", 
+            "long": 26.12565210026429, 
+            "den": "METRO BERCENI"
+        }, 
+        {
+            "lat": 44.36260540011915, 
+            "id_buster": "1081", 
+            "long": 26.1230735002419, 
+            "den": "PLATFORMA COMERCIALA ARCADE BE"
+        }
+    ]
+}

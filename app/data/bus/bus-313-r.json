@@ -1,0 +1,89 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.429701399699866, 
+            "id_buster": "1125", 
+            "long": 26.107684699789104, 
+            "den": "PIATA SFANTA VINERI"
+        }, 
+        {
+            "lat": 44.42743550024818, 
+            "id_buster": "605", 
+            "long": 26.1010311996302, 
+            "den": "PIATA UNIRII 1"
+        }, 
+        {
+            "lat": 44.42027059970849, 
+            "id_buster": "439", 
+            "long": 26.104007399821683, 
+            "den": "BD. MARASESTI"
+        }, 
+        {
+            "lat": 44.41361630005224, 
+            "id_buster": "618", 
+            "long": 26.105204699637227, 
+            "den": "COLEGIUL NATIONAL GH. SINCAI"
+        }, 
+        {
+            "lat": 44.40921719971402, 
+            "id_buster": "12", 
+            "long": 26.112972399556668, 
+            "den": "PALATUL NATIONAL AL COPIILOR"
+        }, 
+        {
+            "lat": 44.40795810028618, 
+            "id_buster": "13", 
+            "long": 26.120016000438113, 
+            "den": "SOSEAUA MIHAI BRAVU"
+        }, 
+        {
+            "lat": 44.40431260034626, 
+            "id_buster": "616", 
+            "long": 26.121036200360436, 
+            "den": "COSTACHE STAMATE"
+        }, 
+        {
+            "lat": 44.39937200021768, 
+            "id_buster": "433", 
+            "long": 26.12082380027823, 
+            "den": "PRIDVORULUI"
+        }, 
+        {
+            "lat": 44.39320679955421, 
+            "id_buster": "620", 
+            "long": 26.120637899619396, 
+            "den": "PIATA SUDULUI"
+        }, 
+        {
+            "lat": 44.38805730040417, 
+            "id_buster": "615", 
+            "long": 26.117545200350776, 
+            "den": "BD. ALEXANDRU OBREGIA"
+        }, 
+        {
+            "lat": 44.38542059968097, 
+            "id_buster": "617", 
+            "long": 26.11591300008496, 
+            "den": "DRAGOS MLADINOVICI"
+        }, 
+        {
+            "lat": 44.3817706004329, 
+            "id_buster": "623", 
+            "long": 26.11549790000811, 
+            "den": "STRADUINTEI"
+        }, 
+        {
+            "lat": 44.378843899826165, 
+            "id_buster": "614", 
+            "long": 26.118220600200573, 
+            "den": "ALIORULUI"
+        }, 
+        {
+            "lat": 44.377021599966895, 
+            "id_buster": "446", 
+            "long": 26.11987619992675, 
+            "den": "TURNU MAGURELE"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.416454900373424, 
+            "id_buster": "417", 
+            "long": 26.112652800286583, 
+            "den": "UNIV. CRESTINA DIMITRIE CANTE"
+        }, 
+        {
+            "lat": 44.414325762544344, 
+            "id_buster": "1612", 
+            "long": 26.105045463708358, 
+            "den": "COLEGIUL NATIONAL GH. SINCAI"
+        }, 
+        {
+            "lat": 44.41110330017722, 
+            "id_buster": "895", 
+            "long": 26.099988600293727, 
+            "den": "ADESGO"
+        }, 
+        {
+            "lat": 44.40821349965336, 
+            "id_buster": "904", 
+            "long": 26.096421700201347, 
+            "den": "CUTITUL DE ARGINT"
+        }, 
+        {
+            "lat": 44.40665790004209, 
+            "id_buster": "431", 
+            "long": 26.095532500024888, 
+            "den": "CIMITIRUL EROILOR REVOLUTIEI"
+        }, 
+        {
+            "lat": 44.40462050033585, 
+            "id_buster": "1100", 
+            "long": 26.09640210037668, 
+            "den": "PIATA EROII REVOLUTIEI"
+        }, 
+        {
+            "lat": 44.400634400157514, 
+            "id_buster": "158", 
+            "long": 26.09723400024899, 
+            "den": "SURA MARE"
+        }, 
+        {
+            "lat": 44.3974123001376, 
+            "id_buster": "159", 
+            "long": 26.095908899576102, 
+            "den": "MUZEUL BACOVIA"
+        }, 
+        {
+            "lat": 44.39245549962169, 
+            "id_buster": "1346", 
+            "long": 26.093516999709834, 
+            "den": "PIATA PROGRESUL"
+        }, 
+        {
+            "lat": 44.3896344999323, 
+            "id_buster": "1348", 
+            "long": 26.09142319992077, 
+            "den": "TOPORASI"
+        }, 
+        {
+            "lat": 44.391136395340304, 
+            "id_buster": "1814", 
+            "long": 26.08680142043852, 
+            "den": "C.F.R."
+        }, 
+        {
+            "lat": 44.39334290025471, 
+            "id_buster": "1422", 
+            "long": 26.082971199561257, 
+            "den": "VADUL NOU"
+        }, 
+        {
+            "lat": 44.390476199716886, 
+            "id_buster": "1418", 
+            "long": 26.080996800062337, 
+            "den": "VALTOAREI"
+        }, 
+        {
+            "lat": 44.3866485996532, 
+            "id_buster": "1416", 
+            "long": 26.07797010024001, 
+            "den": "ZETARILOR"
+        }
+    ]
+}

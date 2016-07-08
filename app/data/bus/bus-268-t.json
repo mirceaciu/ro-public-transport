@@ -1,0 +1,131 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.4127422003923, 
+            "id_buster": "1232", 
+            "long": 26.014586699916322, 
+            "den": "VALEA OLTULUI"
+        }, 
+        {
+            "lat": 44.415710099841306, 
+            "id_buster": "1233", 
+            "long": 26.015548800037152, 
+            "den": "VALEA ARGESULUI"
+        }, 
+        {
+            "lat": 44.417442099673224, 
+            "id_buster": "1049", 
+            "long": 26.021153599858792, 
+            "den": "DRUMUL TABEREI 85"
+        }, 
+        {
+            "lat": 44.421290299607676, 
+            "id_buster": "672", 
+            "long": 26.020912300062662, 
+            "den": "PIATA VALEA IALOMITEI"
+        }, 
+        {
+            "lat": 44.422738399657476, 
+            "id_buster": "28", 
+            "long": 26.027745500054834, 
+            "den": "ROMANCIERILOR"
+        }, 
+        {
+            "lat": 44.42237260041526, 
+            "id_buster": "1057", 
+            "long": 26.03023609961633, 
+            "den": "POIANA MUNTELUI"
+        }, 
+        {
+            "lat": 44.42216080018085, 
+            "id_buster": "765", 
+            "long": 26.036054699764634, 
+            "den": "PIATA DRUMUL TABEREI"
+        }, 
+        {
+            "lat": 44.422636799648615, 
+            "id_buster": "764", 
+            "long": 26.039895000054287, 
+            "den": "DRUMUL TABEREI 35"
+        }, 
+        {
+            "lat": 44.424296899582316, 
+            "id_buster": "779", 
+            "long": 26.04756059994179, 
+            "den": "FAVORIT"
+        }, 
+        {
+            "lat": 44.42549220020493, 
+            "id_buster": "782", 
+            "long": 26.05366190017662, 
+            "den": "ORIZONT"
+        }, 
+        {
+            "lat": 44.426727199600634, 
+            "id_buster": "674", 
+            "long": 26.05904729959326, 
+            "den": "LT. NICOLAE GAINA"
+        }, 
+        {
+            "lat": 44.428269400212685, 
+            "id_buster": "1236", 
+            "long": 26.060707199877413, 
+            "den": "PIATA DANNY HUWE"
+        }, 
+        {
+            "lat": 44.42889430043169, 
+            "id_buster": "1046", 
+            "long": 26.066572699670417, 
+            "den": "PROFESOR DR. RAINER"
+        }, 
+        {
+            "lat": 44.432277700155794, 
+            "id_buster": "1238", 
+            "long": 26.0699927998279, 
+            "den": "CAROL DAVILA"
+        }, 
+        {
+            "lat": 44.43431929969597, 
+            "id_buster": "746", 
+            "long": 26.076536900157862, 
+            "den": "PIATA OPEREI"
+        }, 
+        {
+            "lat": 44.43726279963852, 
+            "id_buster": "1285", 
+            "long": 26.076877200022807, 
+            "den": "STIRBEI VODA"
+        }, 
+        {
+            "lat": 44.43943759956562, 
+            "id_buster": "1042", 
+            "long": 26.080087000015112, 
+            "den": "BERZEI"
+        }, 
+        {
+            "lat": 44.44014979967358, 
+            "id_buster": "1435", 
+            "long": 26.085153099635875, 
+            "den": "CONSTANTIN CRISTESCU"
+        }, 
+        {
+            "lat": 44.43984749976238, 
+            "id_buster": "1043", 
+            "long": 26.089743599987173, 
+            "den": "CISMIGIU"
+        }, 
+        {
+            "lat": 44.43913739957139, 
+            "id_buster": "1290", 
+            "long": 26.099976200441347, 
+            "den": "BD. NICOLAE BALCESCU"
+        }, 
+        {
+            "lat": 44.43663249989004, 
+            "id_buster": "1013", 
+            "long": 26.101814699788633, 
+            "den": "PIATA 21 DECEMBRIE 1989"
+        }
+    ]
+}

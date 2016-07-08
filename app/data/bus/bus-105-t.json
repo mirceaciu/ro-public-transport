@@ -1,0 +1,203 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.41197539974496, 
+            "id_buster": "79", 
+            "long": 26.01716970032146, 
+            "den": "VALEA OLTULUI"
+        }, 
+        {
+            "lat": 44.41260699991318, 
+            "id_buster": "758", 
+            "long": 26.022305900297113, 
+            "den": "GHIDIGENI"
+        }, 
+        {
+            "lat": 44.41311099977287, 
+            "id_buster": "760", 
+            "long": 26.026363600000195, 
+            "den": "RAUL DOAMNEI"
+        }, 
+        {
+            "lat": 44.41358159971111, 
+            "id_buster": "756", 
+            "long": 26.030357699648164, 
+            "den": "DRUMUL COOPERATIVEI"
+        }, 
+        {
+            "lat": 44.41454259996107, 
+            "id_buster": "763", 
+            "long": 26.035188399924778, 
+            "den": "BRASOV"
+        }, 
+        {
+            "lat": 44.418363000052466, 
+            "id_buster": "768", 
+            "long": 26.034561700162385, 
+            "den": "PARCUL DRUMUL TABEREI"
+        }, 
+        {
+            "lat": 44.42216080018085, 
+            "id_buster": "765", 
+            "long": 26.036054699764634, 
+            "den": "PIATA DRUMUL TABEREI"
+        }, 
+        {
+            "lat": 44.422636799648615, 
+            "id_buster": "764", 
+            "long": 26.039895000054287, 
+            "den": "DRUMUL TABEREI 35"
+        }, 
+        {
+            "lat": 44.424296899582316, 
+            "id_buster": "779", 
+            "long": 26.04756059994179, 
+            "den": "FAVORIT"
+        }, 
+        {
+            "lat": 44.42549220020493, 
+            "id_buster": "782", 
+            "long": 26.05366190017662, 
+            "den": "ORIZONT"
+        }, 
+        {
+            "lat": 44.428051800250444, 
+            "id_buster": "774", 
+            "long": 26.054651399942202, 
+            "den": "BD. TIMISOARA"
+        }, 
+        {
+            "lat": 44.433848599933015, 
+            "id_buster": "771", 
+            "long": 26.05444469976311, 
+            "den": "BD. IULIU MANIU"
+        }, 
+        {
+            "lat": 44.44084449987383, 
+            "id_buster": "783", 
+            "long": 26.059358599919506, 
+            "den": "PODUL GROZAVESTI"
+        }, 
+        {
+            "lat": 44.44364749963245, 
+            "id_buster": "785", 
+            "long": 26.060990200337528, 
+            "den": "SOSEAUA ORHIDEELOR"
+        }, 
+        {
+            "lat": 44.448167799804196, 
+            "id_buster": "777", 
+            "long": 26.06534829968433, 
+            "den": "CALEA PLEVNEI"
+        }, 
+        {
+            "lat": 44.44912649958832, 
+            "id_buster": "787", 
+            "long": 26.06894649978119, 
+            "den": "GARA BASARAB"
+        }, 
+        {
+            "lat": 44.44549419989744, 
+            "id_buster": "513", 
+            "long": 26.07436060016164, 
+            "den": "GARA DE NORD"
+        }, 
+        {
+            "lat": 44.44815609962433, 
+            "id_buster": "786", 
+            "long": 26.074242899590217, 
+            "den": "GARA DE NORD"
+        }, 
+        {
+            "lat": 44.45064360012208, 
+            "id_buster": "788", 
+            "long": 26.068950999988715, 
+            "den": "NICOLAE TITULESCU"
+        }, 
+        {
+            "lat": 44.453558700373776, 
+            "id_buster": "790", 
+            "long": 26.064417100268997, 
+            "den": "STOICA LUDESCU"
+        }, 
+        {
+            "lat": 44.45643760021511, 
+            "id_buster": "44", 
+            "long": 26.06151299962528, 
+            "den": "PASAJ GRANT"
+        }, 
+        {
+            "lat": 44.4575791996204, 
+            "id_buster": "794", 
+            "long": 26.060583699578103, 
+            "den": "CIMITIRUL SFANTA VINERI"
+        }, 
+        {
+            "lat": 44.45998129959736, 
+            "id_buster": "793", 
+            "long": 26.058726599552983, 
+            "den": "CARAIMAN"
+        }, 
+        {
+            "lat": 44.46191660017104, 
+            "id_buster": "800", 
+            "long": 26.05719600019529, 
+            "den": "GRIRO"
+        }, 
+        {
+            "lat": 44.464465300433346, 
+            "id_buster": "802", 
+            "long": 26.05519349958041, 
+            "den": "KIEV"
+        }, 
+        {
+            "lat": 44.46621389995158, 
+            "id_buster": "804", 
+            "long": 26.053830200203606, 
+            "den": "LAINICI"
+        }, 
+        {
+            "lat": 44.46869730044011, 
+            "id_buster": "806", 
+            "long": 26.051897899768335, 
+            "den": "R.A.R."
+        }, 
+        {
+            "lat": 44.47059879999466, 
+            "id_buster": "797", 
+            "long": 26.051822700257446, 
+            "den": "CLABUCET"
+        }, 
+        {
+            "lat": 44.46910230023104, 
+            "id_buster": "808", 
+            "long": 26.05923890015515, 
+            "den": "AVIATOR POPISTEANU"
+        }, 
+        {
+            "lat": 44.472744899857275, 
+            "id_buster": "815", 
+            "long": 26.05640089968182, 
+            "den": "BD.EXPOZITIEI"
+        }, 
+        {
+            "lat": 44.47355300007092, 
+            "id_buster": "811", 
+            "long": 26.061431199989954, 
+            "den": "TRAIAN VASILE"
+        }, 
+        {
+            "lat": 44.47426560037724, 
+            "id_buster": "812", 
+            "long": 26.066004400083045, 
+            "den": "UNIVERSITATEA ROMANO-AMERICANA"
+        }, 
+        {
+            "lat": 44.47524349978772, 
+            "id_buster": "813", 
+            "long": 26.07196689985261, 
+            "den": "PIATA PRESEI"
+        }
+    ]
+}

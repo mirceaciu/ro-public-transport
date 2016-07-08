@@ -1,0 +1,65 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.40462050033585, 
+            "id_buster": "1100", 
+            "long": 26.09640210037668, 
+            "den": "PIATA EROII REVOLUTIEI"
+        }, 
+        {
+            "lat": 44.400985199607305, 
+            "id_buster": "902", 
+            "long": 26.10066319974692, 
+            "den": "CIMITIRUL SERBAN VODA"
+        }, 
+        {
+            "lat": 44.399695300198005, 
+            "id_buster": "917", 
+            "long": 26.10552829999108, 
+            "den": "OPRIS ILIE"
+        }, 
+        {
+            "lat": 44.39775140030696, 
+            "id_buster": "1092", 
+            "long": 26.110732500404595, 
+            "den": "BD. CONSTANTIN BRANCOVEANU"
+        }, 
+        {
+            "lat": 44.395492600103466, 
+            "id_buster": "1098", 
+            "long": 26.11661559993007, 
+            "den": "HUSI"
+        }, 
+        {
+            "lat": 44.39296620032991, 
+            "id_buster": "238", 
+            "long": 26.123120399886602, 
+            "den": "SOSEAUA BERCENI"
+        }, 
+        {
+            "lat": 44.39078942954494, 
+            "id_buster": "1743", 
+            "long": 26.128072419039245, 
+            "den": "LUNCA BARZESTI"
+        }, 
+        {
+            "lat": 44.38865061278706, 
+            "id_buster": "1745", 
+            "long": 26.13310468792168, 
+            "den": "STADION"
+        }, 
+        {
+            "lat": 44.385483500063515, 
+            "id_buster": "1204", 
+            "long": 26.140540499944166, 
+            "den": "SOSEAUA VITAN BARZESTI"
+        }, 
+        {
+            "lat": 44.38354100041687, 
+            "id_buster": "70", 
+            "long": 26.14684259990611, 
+            "den": "ROMPRIM"
+        }
+    ]
+}
