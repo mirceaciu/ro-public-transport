@@ -13,10 +13,11 @@
     <!-- endbuild -->
     <!-- build:css(.tmp) styles/main.css -->
     <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/leaflet.css">
     <link rel="stylesheet" href="styles/routing-machine.css" />
     <!-- endbuild -->
 
-    <link rel="stylesheet" href="https://cdn.leafletjs.com/leaflet-0.7.1/leaflet.css">
+
 
   </head>
   <body ng-app="transportApp">
@@ -73,7 +74,7 @@
        ga('send', 'pageview');
     </script>
 
-    <script src="https://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js"></script>
+
 
     </script>
     <!-- build:js(.) scripts/vendor.js -->
@@ -91,9 +92,11 @@
     <!-- endbuild -->
 
         <!-- build:js({.tmp,app}) scripts/scripts.js -->
+
         <script src="scripts/app.js"></script>
         <script src="scripts/controllers/main.js"></script>
         <script src="scripts/controllers/about.js"></script>
+        <script src="leaflet.js"></script>
         <script src="scripts/controllers/mapcontrols.js"></script>
         <script src="leaflet-routing-machine.js"></script>
         <!-- endbuild -->
