@@ -1,0 +1,113 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.37746690017735, 
+            "id_buster": "624", 
+            "long": 26.119782700111557, 
+            "den": "TURNU MAGURELE"
+        }, 
+        {
+            "lat": 44.379175999672725, 
+            "id_buster": "625", 
+            "long": 26.118159400436014, 
+            "den": "ALIORULUI"
+        }, 
+        {
+            "lat": 44.38176760029455, 
+            "id_buster": "638", 
+            "long": 26.11570829999812, 
+            "den": "STRADUINTEI"
+        }, 
+        {
+            "lat": 44.38556900040908, 
+            "id_buster": "435", 
+            "long": 26.116208000199094, 
+            "den": "DRAGOS MLADINOVICI"
+        }, 
+        {
+            "lat": 44.3884458003335, 
+            "id_buster": "631", 
+            "long": 26.11802810031662, 
+            "den": "EMIL RACOVITA"
+        }, 
+        {
+            "lat": 44.39174939961515, 
+            "id_buster": "635", 
+            "long": 26.12017179988868, 
+            "den": "PIATA SUDULUI"
+        }, 
+        {
+            "lat": 44.4005344000426, 
+            "id_buster": "636", 
+            "long": 26.121077199553156, 
+            "den": "PRIDVORULUI"
+        }, 
+        {
+            "lat": 44.40323860028121, 
+            "id_buster": "630", 
+            "long": 26.12117830043826, 
+            "den": "COSTACHE STAMATE"
+        }, 
+        {
+            "lat": 44.40800199979253, 
+            "id_buster": "629", 
+            "long": 26.1201579997919, 
+            "den": "BD.TINERETULUI"
+        }, 
+        {
+            "lat": 44.408464000413346, 
+            "id_buster": "634", 
+            "long": 26.11603329969705, 
+            "den": "PALATUL NATIONAL AL COPIILOR"
+        }, 
+        {
+            "lat": 44.409704500062674, 
+            "id_buster": "11", 
+            "long": 26.112110400274787, 
+            "den": "PARCUL TINERETULUI"
+        }, 
+        {
+            "lat": 44.41070069977752, 
+            "id_buster": "637", 
+            "long": 26.110107600185643, 
+            "den": "VISANA"
+        }, 
+        {
+            "lat": 44.41525580011512, 
+            "id_buster": "632", 
+            "long": 26.10458500019763, 
+            "den": "COLEGIUL NATIONAL GH. SINCAI"
+        }, 
+        {
+            "lat": 44.420448199624786, 
+            "id_buster": "628", 
+            "long": 26.104158699964103, 
+            "den": "BD. MARASESTI"
+        }, 
+        {
+            "lat": 44.426593099891704, 
+            "id_buster": "626", 
+            "long": 26.10487109972155, 
+            "den": "BD. I. C. BRATIANU"
+        }, 
+        {
+            "lat": 44.4270132001991, 
+            "id_buster": "627", 
+            "long": 26.112043100408812, 
+            "den": "MIRCEA VODA"
+        }, 
+        {
+            "lat": 44.43099489999469, 
+            "id_buster": "633", 
+            "long": 26.111464400161992, 
+            "den": "MATEI BASARAB"
+        }, 
+        {
+            "lat": 44.42946500030956, 
+            "id_buster": "245", 
+            "long": 26.107199199883212, 
+            "den": "PIATA SFANTA VINERI"
+        }
+    ]
+}

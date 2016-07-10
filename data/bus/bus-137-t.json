@@ -1,0 +1,197 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.43788810005583, 
+            "id_buster": "1331", 
+            "long": 25.958516500136398, 
+            "den": "CARREFOUR MILITARI"
+        }, 
+        {
+            "lat": 44.43842640005835, 
+            "id_buster": "1332", 
+            "long": 25.96612960030086, 
+            "den": "SOSEAUA DE CENTURA"
+        }, 
+        {
+            "lat": 44.43563360041037, 
+            "id_buster": "1336", 
+            "long": 25.958161800326877, 
+            "den": "COMPLEX COMERCIAL WEST PARK"
+        }, 
+        {
+            "lat": 44.43552120044308, 
+            "id_buster": "1351", 
+            "long": 25.97603989992149, 
+            "den": "GRUP SCOLAR AUTO"
+        }, 
+        {
+            "lat": 44.43490030040857, 
+            "id_buster": "1353", 
+            "long": 25.983408700151415, 
+            "den": "VICTORIA"
+        }, 
+        {
+            "lat": 44.434529400211716, 
+            "id_buster": "1358", 
+            "long": 25.987674799752256, 
+            "den": "METRO MILITARI"
+        }, 
+        {
+            "lat": 44.434132399890416, 
+            "id_buster": "1359", 
+            "long": 25.992401899927813, 
+            "den": "NUFARUL"
+        }, 
+        {
+            "lat": 44.433728599795074, 
+            "id_buster": "310", 
+            "long": 25.99792929959756, 
+            "den": "MASTER"
+        }, 
+        {
+            "lat": 44.433756600186996, 
+            "id_buster": "1355", 
+            "long": 26.00147480032183, 
+            "den": "IMPRIMERIA NATIONALA"
+        }, 
+        {
+            "lat": 44.43378220028836, 
+            "id_buster": "307", 
+            "long": 26.006716700315508, 
+            "den": "AUTOGARA MILITARI"
+        }, 
+        {
+            "lat": 44.4338453003204, 
+            "id_buster": "169", 
+            "long": 26.012636699923803, 
+            "den": "APUSULUI"
+        }, 
+        {
+            "lat": 44.4339215997021, 
+            "id_buster": "253", 
+            "long": 26.01654940013475, 
+            "den": "VALEA LUNGA"
+        }, 
+        {
+            "lat": 44.4339865001769, 
+            "id_buster": "1361", 
+            "long": 26.0195801999663, 
+            "den": "PIATA GORJULUI"
+        }, 
+        {
+            "lat": 44.43106789976383, 
+            "id_buster": "1363", 
+            "long": 26.018370299749563, 
+            "den": "SCOALA GENERALA 309"
+        }, 
+        {
+            "lat": 44.42796019980341, 
+            "id_buster": "52", 
+            "long": 26.015662299875316, 
+            "den": "PETUNIEI"
+        }, 
+        {
+            "lat": 44.42602759989387, 
+            "id_buster": "1365", 
+            "long": 26.017590799775633, 
+            "den": "FRIGOCOM"
+        }, 
+        {
+            "lat": 44.42666320024654, 
+            "id_buster": "1367", 
+            "long": 26.025345300345407, 
+            "den": "ROMANCIERILOR"
+        }, 
+        {
+            "lat": 44.427076099682324, 
+            "id_buster": "1369", 
+            "long": 26.0283686996558, 
+            "den": "COMPLEX COMERCIAL"
+        }, 
+        {
+            "lat": 44.42742439991616, 
+            "id_buster": "1341", 
+            "long": 26.03457860022229, 
+            "den": "BRASOV"
+        }, 
+        {
+            "lat": 44.427953599678915, 
+            "id_buster": "1370", 
+            "long": 26.041876399876003, 
+            "den": "SERGENT MOISE"
+        }, 
+        {
+            "lat": 44.42822489995922, 
+            "id_buster": "1374", 
+            "long": 26.04912210000498, 
+            "den": "SIBIU"
+        }, 
+        {
+            "lat": 44.42859420026218, 
+            "id_buster": "1376", 
+            "long": 26.055217800161415, 
+            "den": "BD. G-RAL VASILE MILEA"
+        }, 
+        {
+            "lat": 44.4289116996153, 
+            "id_buster": "1378", 
+            "long": 26.05980840033743, 
+            "den": "PIATA DANNY HUWE"
+        }, 
+        {
+            "lat": 44.42889430043169, 
+            "id_buster": "1046", 
+            "long": 26.066572699670417, 
+            "den": "PROFESOR DR. RAINER"
+        }, 
+        {
+            "lat": 44.432277700155794, 
+            "id_buster": "1238", 
+            "long": 26.0699927998279, 
+            "den": "CAROL DAVILA"
+        }, 
+        {
+            "lat": 44.43431929969597, 
+            "id_buster": "746", 
+            "long": 26.076536900157862, 
+            "den": "PIATA OPEREI"
+        }, 
+        {
+            "lat": 44.43726279963852, 
+            "id_buster": "1285", 
+            "long": 26.076877200022807, 
+            "den": "STIRBEI VODA"
+        }, 
+        {
+            "lat": 44.43943759956562, 
+            "id_buster": "1042", 
+            "long": 26.080087000015112, 
+            "den": "BERZEI"
+        }, 
+        {
+            "lat": 44.44014979967358, 
+            "id_buster": "1435", 
+            "long": 26.085153099635875, 
+            "den": "CONSTANTIN CRISTESCU"
+        }, 
+        {
+            "lat": 44.43984749976238, 
+            "id_buster": "1043", 
+            "long": 26.089743599987173, 
+            "den": "CISMIGIU"
+        }, 
+        {
+            "lat": 44.43913739957139, 
+            "id_buster": "1290", 
+            "long": 26.099976200441347, 
+            "den": "BD. NICOLAE BALCESCU"
+        }, 
+        {
+            "lat": 44.43663249989004, 
+            "id_buster": "1013", 
+            "long": 26.101814699788633, 
+            "den": "PIATA 21 DECEMBRIE 1989"
+        }
+    ]
+}

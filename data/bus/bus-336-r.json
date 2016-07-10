@@ -1,0 +1,119 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.43608339992903, 
+            "id_buster": "503", 
+            "long": 26.105197600388976, 
+            "den": "PIATA ROSETTI"
+        }, 
+        {
+            "lat": 44.435875000031274, 
+            "id_buster": "502", 
+            "long": 26.1040903002272, 
+            "den": "TEATRUL NATIONAL"
+        }, 
+        {
+            "lat": 44.43521040013991, 
+            "id_buster": "508", 
+            "long": 26.100704199839015, 
+            "den": "UNIVERSITATE"
+        }, 
+        {
+            "lat": 44.43468960004503, 
+            "id_buster": "495", 
+            "long": 26.093808600386637, 
+            "den": "GRADINA CISMIGIU"
+        }, 
+        {
+            "lat": 44.43483520028434, 
+            "id_buster": "501", 
+            "long": 26.087907599855896, 
+            "den": "PIATA MIHAIL KOGALNICEANU"
+        }, 
+        {
+            "lat": 44.43445159986152, 
+            "id_buster": "1012", 
+            "long": 26.080650800294222, 
+            "den": "FACULTATEA DE DREPT"
+        }, 
+        {
+            "lat": 44.43645489997368, 
+            "id_buster": "977", 
+            "long": 26.074293599769874, 
+            "den": "STIRBEI VODA"
+        }, 
+        {
+            "lat": 44.436500599922795, 
+            "id_buster": "196", 
+            "long": 26.065716500116423, 
+            "den": "GRADINA BOTANICA"
+        }, 
+        {
+            "lat": 44.43461880001769, 
+            "id_buster": "314", 
+            "long": 26.05813620002567, 
+            "den": "PIATA LEUL"
+        }, 
+        {
+            "lat": 44.434550400280784, 
+            "id_buster": "1313", 
+            "long": 26.053579399969408, 
+            "den": "BD. G-RAL VASILE MILEA"
+        }, 
+        {
+            "lat": 44.43448239984292, 
+            "id_buster": "194", 
+            "long": 26.048261300418744, 
+            "den": "U.P.B."
+        }, 
+        {
+            "lat": 44.43438420017077, 
+            "id_buster": "1311", 
+            "long": 26.04175110003331, 
+            "den": "LICEUL TUDOR VLADIMIRESCU"
+        }, 
+        {
+            "lat": 44.43433040002799, 
+            "id_buster": "312", 
+            "long": 26.033880600409418, 
+            "den": "LUJERULUI"
+        }, 
+        {
+            "lat": 44.434276900258794, 
+            "id_buster": "836", 
+            "long": 26.02878290041059, 
+            "den": "VETERANILOR"
+        }, 
+        {
+            "lat": 44.43421540012065, 
+            "id_buster": "838", 
+            "long": 26.023502299891277, 
+            "den": "RASARITULUI"
+        }, 
+        {
+            "lat": 44.434136800273166, 
+            "id_buster": "316", 
+            "long": 26.019369999625837, 
+            "den": "PIATA GORJULUI"
+        }, 
+        {
+            "lat": 44.43404030031968, 
+            "id_buster": "252", 
+            "long": 26.01519420005235, 
+            "den": "VALEA LUNGA"
+        }, 
+        {
+            "lat": 44.43399110020914, 
+            "id_buster": "168", 
+            "long": 26.012195700271377, 
+            "den": "APUSULUI"
+        }, 
+        {
+            "lat": 44.438236126067316, 
+            "id_buster": "1873", 
+            "long": 26.014964683426896, 
+            "den": "COMPLEX COMERCIAL APUSULUI"
+        }
+    ]
+}

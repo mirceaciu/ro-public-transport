@@ -1,0 +1,125 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.405882900275685, 
+            "id_buster": "697", 
+            "long": 26.148796600083074, 
+            "den": "C.E.T. SUD VITAN"
+        }, 
+        {
+            "lat": 44.40719100016457, 
+            "id_buster": "964", 
+            "long": 26.144652999836126, 
+            "den": "ENERGETICIENILOR"
+        }, 
+        {
+            "lat": 44.4089389000103, 
+            "id_buster": "959", 
+            "long": 26.13908490044787, 
+            "den": "COMPLEX COMERCIAL VITAN"
+        }, 
+        {
+            "lat": 44.40454400040534, 
+            "id_buster": "1198", 
+            "long": 26.142358500144724, 
+            "den": "POD VITAN"
+        }, 
+        {
+            "lat": 44.39971130003653, 
+            "id_buster": "22", 
+            "long": 26.142675500374082, 
+            "den": "COMPLEX COMERCIAL VITAN BARZES"
+        }, 
+        {
+            "lat": 44.39141789961644, 
+            "id_buster": "1201", 
+            "long": 26.142644300194377, 
+            "den": "SPITALUL SF. IOAN"
+        }, 
+        {
+            "lat": 44.3885305002824, 
+            "id_buster": "1199", 
+            "long": 26.141436900092913, 
+            "den": "INML"
+        }, 
+        {
+            "lat": 44.386570300179244, 
+            "id_buster": "1203", 
+            "long": 26.1399816998956, 
+            "den": "SOSEAUA OLTENITEI"
+        }, 
+        {
+            "lat": 44.3795984004459, 
+            "id_buster": "1093", 
+            "long": 26.13249339955081, 
+            "den": "CARTIER APARATORII PATRIEI"
+        }, 
+        {
+            "lat": 44.3790916000973, 
+            "id_buster": "1096", 
+            "long": 26.12679249997393, 
+            "den": "EMIL RACOVITA"
+        }, 
+        {
+            "lat": 44.378142399851924, 
+            "id_buster": "1094", 
+            "long": 26.12403799975391, 
+            "den": "CICEU"
+        }, 
+        {
+            "lat": 44.376334300287795, 
+            "id_buster": "1108", 
+            "long": 26.118951200437607, 
+            "den": "BD. ALEXANDRU OBREGIA"
+        }, 
+        {
+            "lat": 44.37600619972636, 
+            "id_buster": "1449", 
+            "long": 26.11252889978897, 
+            "den": "DOROHOI"
+        }, 
+        {
+            "lat": 44.37691809969061, 
+            "id_buster": "911", 
+            "long": 26.10591670009569, 
+            "den": "IZVORUL OLTULUI"
+        }, 
+        {
+            "lat": 44.377590799775646, 
+            "id_buster": "928", 
+            "long": 26.101295999610727, 
+            "den": "UCEA"
+        }, 
+        {
+            "lat": 44.37805860012435, 
+            "id_buster": "919", 
+            "long": 26.09806020021813, 
+            "den": "RESITA"
+        }, 
+        {
+            "lat": 44.37856300018234, 
+            "id_buster": "916", 
+            "long": 26.094312200048023, 
+            "den": "LUICA"
+        }, 
+        {
+            "lat": 44.37827450036792, 
+            "id_buster": "897", 
+            "long": 26.09151059963449, 
+            "den": "ANGHEL ALEXANDRU"
+        }, 
+        {
+            "lat": 44.37287279983991, 
+            "id_buster": "920", 
+            "long": 26.090083200179606, 
+            "den": "RADUCANU CRISTEA"
+        }, 
+        {
+            "lat": 44.36999619956504, 
+            "id_buster": "900", 
+            "long": 26.089319399670615, 
+            "den": "C.F.R. PROGRESUL"
+        }
+    ]
+}

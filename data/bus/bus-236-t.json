@@ -1,0 +1,137 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.435766200050125, 
+            "id_buster": "1350", 
+            "long": 25.958329600330842, 
+            "den": "COMPLEX COMERCIAL WEST PARK"
+        }, 
+        {
+            "lat": 44.43552120044308, 
+            "id_buster": "1351", 
+            "long": 25.97603989992149, 
+            "den": "GRUP SCOLAR AUTO"
+        }, 
+        {
+            "lat": 44.43490030040857, 
+            "id_buster": "1353", 
+            "long": 25.983408700151415, 
+            "den": "VICTORIA"
+        }, 
+        {
+            "lat": 44.434529400211716, 
+            "id_buster": "1358", 
+            "long": 25.987674799752256, 
+            "den": "METRO MILITARI"
+        }, 
+        {
+            "lat": 44.434132399890416, 
+            "id_buster": "1359", 
+            "long": 25.992401899927813, 
+            "den": "NUFARUL"
+        }, 
+        {
+            "lat": 44.433728599795074, 
+            "id_buster": "310", 
+            "long": 25.99792929959756, 
+            "den": "MASTER"
+        }, 
+        {
+            "lat": 44.433756600186996, 
+            "id_buster": "1355", 
+            "long": 26.00147480032183, 
+            "den": "IMPRIMERIA NATIONALA"
+        }, 
+        {
+            "lat": 44.43378220028836, 
+            "id_buster": "307", 
+            "long": 26.006716700315508, 
+            "den": "AUTOGARA MILITARI"
+        }, 
+        {
+            "lat": 44.4338453003204, 
+            "id_buster": "169", 
+            "long": 26.012636699923803, 
+            "den": "APUSULUI"
+        }, 
+        {
+            "lat": 44.4339215997021, 
+            "id_buster": "253", 
+            "long": 26.01654940013475, 
+            "den": "VALEA LUNGA"
+        }, 
+        {
+            "lat": 44.43401799983087, 
+            "id_buster": "315", 
+            "long": 26.02118349961887, 
+            "den": "PIATA GORJULUI"
+        }, 
+        {
+            "lat": 44.434094300111894, 
+            "id_buster": "152", 
+            "long": 26.02538369959808, 
+            "den": "RASARITULUI"
+        }, 
+        {
+            "lat": 44.43417089986718, 
+            "id_buster": "319", 
+            "long": 26.031067299816073, 
+            "den": "VETERANILOR"
+        }, 
+        {
+            "lat": 44.434160500107055, 
+            "id_buster": "195", 
+            "long": 26.036134699856575, 
+            "den": "LUJERULUI"
+        }, 
+        {
+            "lat": 44.434245600254314, 
+            "id_buster": "311", 
+            "long": 26.042459399781535, 
+            "den": "LICEUL TUDOR VLADIMIRESCU"
+        }, 
+        {
+            "lat": 44.43435729964972, 
+            "id_buster": "317", 
+            "long": 26.0497716002792, 
+            "den": "U.P.B."
+        }, 
+        {
+            "lat": 44.43444279999528, 
+            "id_buster": "1312", 
+            "long": 26.05557380039062, 
+            "den": "FACULTATEA ELECTRONICA"
+        }, 
+        {
+            "lat": 44.43448720042403, 
+            "id_buster": "313", 
+            "long": 26.05826409980841, 
+            "den": "PIATA LEUL"
+        }, 
+        {
+            "lat": 44.43764152134419, 
+            "id_buster": "1899", 
+            "long": 26.06884289985794, 
+            "den": "CAROL DAVILA"
+        }, 
+        {
+            "lat": 44.437940400129435, 
+            "id_buster": "962", 
+            "long": 26.07038429989558, 
+            "den": "POD COTROCENI"
+        }, 
+        {
+            "lat": 44.43677443171578, 
+            "id_buster": "1458", 
+            "long": 26.072563290476808, 
+            "den": "SPITALUL UNIVERSITAR"
+        }, 
+        {
+            "lat": 44.43645489997368, 
+            "id_buster": "977", 
+            "long": 26.074293599769874, 
+            "den": "STIRBEI VODA"
+        }
+    ]
+}

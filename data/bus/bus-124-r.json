@@ -1,0 +1,167 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.383981800419804, 
+            "id_buster": "1205", 
+            "long": 26.145737000362317, 
+            "den": "ROMPRIM"
+        }, 
+        {
+            "lat": 44.386570300179244, 
+            "id_buster": "1203", 
+            "long": 26.1399816998956, 
+            "den": "SOSEAUA OLTENITEI"
+        }, 
+        {
+            "lat": 44.38924189999375, 
+            "id_buster": "1200", 
+            "long": 26.141961999846444, 
+            "den": "INML"
+        }, 
+        {
+            "lat": 44.392088300135015, 
+            "id_buster": "1202", 
+            "long": 26.142709199769797, 
+            "den": "SPITALUL SF. IOAN"
+        }, 
+        {
+            "lat": 44.398278900351045, 
+            "id_buster": "1154", 
+            "long": 26.142787699792564, 
+            "den": "CARTIER VITAN BARZESTI"
+        }, 
+        {
+            "lat": 44.40098730042365, 
+            "id_buster": "1155", 
+            "long": 26.142579299894805, 
+            "den": "COMPLEX COMERCIAL VITAN BARZES"
+        }, 
+        {
+            "lat": 44.40417110011623, 
+            "id_buster": "1206", 
+            "long": 26.141173199983257, 
+            "den": "POD VITAN BARZESTI"
+        }, 
+        {
+            "lat": 44.405544800152484, 
+            "id_buster": "1207", 
+            "long": 26.135985199957076, 
+            "den": "FUNDATIA ''AISTEDA''"
+        }, 
+        {
+            "lat": 44.40621679966563, 
+            "id_buster": "1210", 
+            "long": 26.133325900170234, 
+            "den": "UZITEX"
+        }, 
+        {
+            "lat": 44.406998899579605, 
+            "id_buster": "1209", 
+            "long": 26.130210199840917, 
+            "den": "PISCUL RACHITEI"
+        }, 
+        {
+            "lat": 44.408812299747865, 
+            "id_buster": "1208", 
+            "long": 26.123886300312563, 
+            "den": "POD MIHAI BRAVU"
+        }, 
+        {
+            "lat": 44.41224410008522, 
+            "id_buster": "1211", 
+            "long": 26.128351099723545, 
+            "den": "PENES CURCANUL"
+        }, 
+        {
+            "lat": 44.415956700241566, 
+            "id_buster": "976", 
+            "long": 26.13122839967093, 
+            "den": "SOSEAUA MIHAI BRAVU"
+        }, 
+        {
+            "lat": 44.41815040032077, 
+            "id_buster": "975", 
+            "long": 26.128268800065143, 
+            "den": "ZIZIN"
+        }, 
+        {
+            "lat": 44.42013709984735, 
+            "id_buster": "968", 
+            "long": 26.12593409977893, 
+            "den": "BUCURESTI MALL"
+        }, 
+        {
+            "lat": 44.42300480043127, 
+            "id_buster": "971", 
+            "long": 26.123772400276096, 
+            "den": "PIATA VITAN"
+        }, 
+        {
+            "lat": 44.425941700249325, 
+            "id_buster": "743", 
+            "long": 26.122725000358514, 
+            "den": "LUCIAN BLAGA"
+        }, 
+        {
+            "lat": 44.4261272996352, 
+            "id_buster": "753", 
+            "long": 26.118418999637186, 
+            "den": "TRAIAN"
+        }, 
+        {
+            "lat": 44.42644930009516, 
+            "id_buster": "737", 
+            "long": 26.11139570005156, 
+            "den": "BIBLIOTECA NATIONALA A ROMANIE"
+        }, 
+        {
+            "lat": 44.42674139989572, 
+            "id_buster": "738", 
+            "long": 26.105047599766976, 
+            "den": "BD. I. C. BRATIANU"
+        }, 
+        {
+            "lat": 44.42906160041258, 
+            "id_buster": "621", 
+            "long": 26.10244000020589, 
+            "den": "PIATA UNIRII"
+        }, 
+        {
+            "lat": 44.42996850014623, 
+            "id_buster": "745", 
+            "long": 26.096928300001082, 
+            "den": "PIATA NATIUNILE UNITE"
+        }, 
+        {
+            "lat": 44.43337559970422, 
+            "id_buster": "739", 
+            "long": 26.091712500131848, 
+            "den": "ELIE RADU"
+        }, 
+        {
+            "lat": 44.43357280034451, 
+            "id_buster": "751", 
+            "long": 26.088751699931038, 
+            "den": "POD IZVOR"
+        }, 
+        {
+            "lat": 44.433878100394054, 
+            "id_buster": "748", 
+            "long": 26.083856799751572, 
+            "den": "POD HASDEU"
+        }, 
+        {
+            "lat": 44.43410119971065, 
+            "id_buster": "740", 
+            "long": 26.08086130010895, 
+            "den": "OPERA NATIONALA"
+        }, 
+        {
+            "lat": 44.43496350026538, 
+            "id_buster": "970", 
+            "long": 26.07784359980235, 
+            "den": "OPERA NATIONALA"
+        }
+    ]
+}

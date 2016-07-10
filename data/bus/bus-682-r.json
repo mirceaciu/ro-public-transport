@@ -1,0 +1,101 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.481590000178414, 
+            "id_buster": "1229", 
+            "long": 26.147740799598296, 
+            "den": "ESCALEI"
+        }, 
+        {
+            "lat": 44.481744099910316, 
+            "id_buster": "1226", 
+            "long": 26.1429111002671, 
+            "den": "MENTIUNII"
+        }, 
+        {
+            "lat": 44.47972620020403, 
+            "id_buster": "1228", 
+            "long": 26.143141600104798, 
+            "den": "OITUZ"
+        }, 
+        {
+            "lat": 44.47657869984715, 
+            "id_buster": "1230", 
+            "long": 26.14398200036908, 
+            "den": "CIUCA STEFAN"
+        }, 
+        {
+            "lat": 44.47383539978392, 
+            "id_buster": "1227", 
+            "long": 26.145037499581008, 
+            "den": "ZAMFIR NICOLAE"
+        }, 
+        {
+            "lat": 44.471713800151804, 
+            "id_buster": "1231", 
+            "long": 26.141559400346125, 
+            "den": "GHERGHITEI"
+        }, 
+        {
+            "lat": 44.468492499629235, 
+            "id_buster": "488", 
+            "long": 26.142265500352607, 
+            "den": "CARTIER COLENTINA"
+        }, 
+        {
+            "lat": 44.46617530015004, 
+            "id_buster": "504", 
+            "long": 26.137359999864145, 
+            "den": "RAUL COLENTINA"
+        }, 
+        {
+            "lat": 44.46451289975056, 
+            "id_buster": "490", 
+            "long": 26.134736399565213, 
+            "den": "CREMENITA (PIATA COLENTINA)"
+        }, 
+        {
+            "lat": 44.460683400318715, 
+            "id_buster": "146", 
+            "long": 26.13237939968957, 
+            "den": "DOAMNA GHICA"
+        }, 
+        {
+            "lat": 44.456176900243804, 
+            "id_buster": "461", 
+            "long": 26.129360200213114, 
+            "den": "TEIUL DOAMNEI"
+        }, 
+        {
+            "lat": 44.45120309984321, 
+            "id_buster": "364", 
+            "long": 26.129611499571126, 
+            "den": "HALELE OBOR"
+        }, 
+        {
+            "lat": 44.448759399926416, 
+            "id_buster": "1257", 
+            "long": 26.131611500070733, 
+            "den": "PIATA OBOR"
+        }, 
+        {
+            "lat": 44.446515700239445, 
+            "id_buster": "468", 
+            "long": 26.1353700996504, 
+            "den": "SOSEAUA PANTELIMON"
+        }, 
+        {
+            "lat": 44.448300099969686, 
+            "id_buster": "466", 
+            "long": 26.14064069970857, 
+            "den": "GARA OBOR"
+        }, 
+        {
+            "lat": 44.44711489963299, 
+            "id_buster": "472", 
+            "long": 26.143556399808062, 
+            "den": "BAICULUI"
+        }
+    ]
+}

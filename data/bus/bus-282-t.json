@@ -1,0 +1,197 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.44912649958832, 
+            "id_buster": "787", 
+            "long": 26.06894649978119, 
+            "den": "GARA BASARAB"
+        }, 
+        {
+            "lat": 44.44549419989744, 
+            "id_buster": "513", 
+            "long": 26.07436060016164, 
+            "den": "GARA DE NORD"
+        }, 
+        {
+            "lat": 44.44815609962433, 
+            "id_buster": "786", 
+            "long": 26.074242899590217, 
+            "den": "GARA DE NORD"
+        }, 
+        {
+            "lat": 44.45057587327398, 
+            "id_buster": "1904", 
+            "long": 26.0699736837271, 
+            "den": "SOSEAUA NICOLAE TITULESCU"
+        }, 
+        {
+            "lat": 44.45385020032654, 
+            "id_buster": "520", 
+            "long": 26.075019099951533, 
+            "den": "PRIMARIA SECTOR 1"
+        }, 
+        {
+            "lat": 44.45582950023129, 
+            "id_buster": "516", 
+            "long": 26.079272000202707, 
+            "den": "BD. ION MIHALACHE"
+        }, 
+        {
+            "lat": 44.458681200077365, 
+            "id_buster": "45", 
+            "long": 26.07706759998979, 
+            "den": "PIATA ION MIHALACHE"
+        }, 
+        {
+            "lat": 44.46246699965235, 
+            "id_buster": "524", 
+            "long": 26.072219800003836, 
+            "den": "BD. MARESAL AVERESCU"
+        }, 
+        {
+            "lat": 44.46524559990456, 
+            "id_buster": "528", 
+            "long": 26.067601599634145, 
+            "den": "PIATA DOMENII"
+        }, 
+        {
+            "lat": 44.467896099825225, 
+            "id_buster": "525", 
+            "long": 26.07528430013042, 
+            "den": "MANASTIREA CASIN"
+        }, 
+        {
+            "lat": 44.46703099968096, 
+            "id_buster": "521", 
+            "long": 26.07931100020255, 
+            "den": "ARCUL DE TRIUMF"
+        }, 
+        {
+            "lat": 44.46536550021773, 
+            "id_buster": "527", 
+            "long": 26.087544899677425, 
+            "den": "PIATA CHARLES DE GAULLE"
+        }, 
+        {
+            "lat": 44.46169690029177, 
+            "id_buster": "531", 
+            "long": 26.09483710015212, 
+            "den": "PIATA DOROBANTILOR"
+        }, 
+        {
+            "lat": 44.464308099839, 
+            "id_buster": "532", 
+            "long": 26.09566719958167, 
+            "den": "SALA LUCIAN GRIGORESCU"
+        }, 
+        {
+            "lat": 44.46593379980504, 
+            "id_buster": "535", 
+            "long": 26.101692099710704, 
+            "den": "CALEA FLOREASCA"
+        }, 
+        {
+            "lat": 44.4654388003604, 
+            "id_buster": "538", 
+            "long": 26.10588220030337, 
+            "den": "GARIBALDI"
+        }, 
+        {
+            "lat": 44.46434270035542, 
+            "id_buster": "534", 
+            "long": 26.10810430007342, 
+            "den": "BARBU VACARESCU"
+        }, 
+        {
+            "lat": 44.46195789973734, 
+            "id_buster": "552", 
+            "long": 26.107385599665747, 
+            "den": "MIHAIL GLINKA"
+        }, 
+        {
+            "lat": 44.46053300039773, 
+            "id_buster": "557", 
+            "long": 26.106942900294655, 
+            "den": "ROSSINI"
+        }, 
+        {
+            "lat": 44.45717369980645, 
+            "id_buster": "540", 
+            "long": 26.106611500120664, 
+            "den": "BD. LACUL TEI"
+        }, 
+        {
+            "lat": 44.45809360013959, 
+            "id_buster": "543", 
+            "long": 26.109061200314216, 
+            "den": "CIRCUL BUCURESTI"
+        }, 
+        {
+            "lat": 44.4592692002135, 
+            "id_buster": "546", 
+            "long": 26.1121915002376, 
+            "den": "LUIGI GALVANI"
+        }, 
+        {
+            "lat": 44.461998800004665, 
+            "id_buster": "549", 
+            "long": 26.119515700389286, 
+            "den": "MAICA DOMNULUI"
+        }, 
+        {
+            "lat": 44.4636590995878, 
+            "id_buster": "545", 
+            "long": 26.124070299804544, 
+            "den": "INSTITUTUL DE CONSTRUCTII"
+        }, 
+        {
+            "lat": 44.4649366000441, 
+            "id_buster": "559", 
+            "long": 26.1273138999166, 
+            "den": "SOSEAUA PETRICANI"
+        }, 
+        {
+            "lat": 44.463068500411, 
+            "id_buster": "492", 
+            "long": 26.13373590019171, 
+            "den": "DOAMNA GHICA"
+        }, 
+        {
+            "lat": 44.4646039003498, 
+            "id_buster": "491", 
+            "long": 26.135039499873074, 
+            "den": "CREMENITA (PIATA COLENTINA)"
+        }, 
+        {
+            "lat": 44.464735400118684, 
+            "id_buster": "550", 
+            "long": 26.139699700380902, 
+            "den": "MAIOR BACILA"
+        }, 
+        {
+            "lat": 44.46376240021465, 
+            "id_buster": "554", 
+            "long": 26.140701699823637, 
+            "den": "POIANA CU ALUNI"
+        }, 
+        {
+            "lat": 44.4620311000553, 
+            "id_buster": "555", 
+            "long": 26.142433300356572, 
+            "den": "RADOVANU"
+        }, 
+        {
+            "lat": 44.463242699990644, 
+            "id_buster": "553", 
+            "long": 26.146211599585683, 
+            "den": "MINERILOR"
+        }, 
+        {
+            "lat": 44.46483099985079, 
+            "id_buster": "512", 
+            "long": 26.14851980044847, 
+            "den": "SOSEAUA FUNDENI"
+        }
+    ]
+}

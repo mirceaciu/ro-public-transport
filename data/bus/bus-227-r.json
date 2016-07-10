@@ -1,0 +1,59 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.39407033756774, 
+            "id_buster": "1630", 
+            "long": 26.06143622776526, 
+            "den": "PIATA PUCHENI"
+        }, 
+        {
+            "lat": 44.39433048033352, 
+            "id_buster": "1629", 
+            "long": 26.064308156404, 
+            "den": "MUNTII CARPATI"
+        }, 
+        {
+            "lat": 44.3960944757703, 
+            "id_buster": "1628", 
+            "long": 26.06477452511956, 
+            "den": "SCOALA GENERALA NR. 127"
+        }, 
+        {
+            "lat": 44.40016188962622, 
+            "id_buster": "1633", 
+            "long": 26.06576443032871, 
+            "den": "DUMITRU PENES"
+        }, 
+        {
+            "lat": 44.40342960009605, 
+            "id_buster": "1407", 
+            "long": 26.066766800347636, 
+            "den": "CAP. PREDA"
+        }, 
+        {
+            "lat": 44.405884710416984, 
+            "id_buster": "1898", 
+            "long": 26.063402736192646, 
+            "den": "PIATA RAHOVA"
+        }, 
+        {
+            "lat": 44.40316443564675, 
+            "id_buster": "1712", 
+            "long": 26.05707906520898, 
+            "den": "TEIUS"
+        }, 
+        {
+            "lat": 44.40056419511859, 
+            "id_buster": "1896", 
+            "long": 26.05038158860742, 
+            "den": "ANTIAERIANA"
+        }, 
+        {
+            "lat": 44.398656527999904, 
+            "id_buster": "1710", 
+            "long": 26.044575870386268, 
+            "den": "DEPOUL ALEXANDRIA"
+        }
+    ]
+}

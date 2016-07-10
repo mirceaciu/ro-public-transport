@@ -1,0 +1,113 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.45150689982364, 
+            "id_buster": "1145", 
+            "long": 26.08759220041975, 
+            "den": "PIATA VICTORIEI"
+        }, 
+        {
+            "lat": 44.449616059378926, 
+            "id_buster": "1906", 
+            "long": 26.091238294670823, 
+            "den": "ORLANDO"
+        }, 
+        {
+            "lat": 44.44681070035358, 
+            "id_buster": "1008", 
+            "long": 26.09638990017379, 
+            "den": "PIATA ROMANA"
+        }, 
+        {
+            "lat": 44.4395163001372, 
+            "id_buster": "1340", 
+            "long": 26.10034990022774, 
+            "den": "BD. NICOLAE BALCESCU"
+        }, 
+        {
+            "lat": 44.43663249989004, 
+            "id_buster": "1013", 
+            "long": 26.101814699788633, 
+            "den": "PIATA 21 DECEMBRIE 1989"
+        }, 
+        {
+            "lat": 44.43243070001682, 
+            "id_buster": "1437", 
+            "long": 26.103368400031684, 
+            "den": "PIATA SF. GHEORGHE"
+        }, 
+        {
+            "lat": 44.42027059970849, 
+            "id_buster": "439", 
+            "long": 26.104007399821683, 
+            "den": "BD. MARASESTI"
+        }, 
+        {
+            "lat": 44.41361630005224, 
+            "id_buster": "618", 
+            "long": 26.105204699637227, 
+            "den": "COLEGIUL NATIONAL GH. SINCAI"
+        }, 
+        {
+            "lat": 44.40921719971402, 
+            "id_buster": "12", 
+            "long": 26.112972399556668, 
+            "den": "PALATUL NATIONAL AL COPIILOR"
+        }, 
+        {
+            "lat": 44.40795810028618, 
+            "id_buster": "13", 
+            "long": 26.120016000438113, 
+            "den": "SOSEAUA MIHAI BRAVU"
+        }, 
+        {
+            "lat": 44.40431260034626, 
+            "id_buster": "616", 
+            "long": 26.121036200360436, 
+            "den": "COSTACHE STAMATE"
+        }, 
+        {
+            "lat": 44.39937200021768, 
+            "id_buster": "433", 
+            "long": 26.12082380027823, 
+            "den": "PRIDVORULUI"
+        }, 
+        {
+            "lat": 44.39320679955421, 
+            "id_buster": "620", 
+            "long": 26.120637899619396, 
+            "den": "PIATA SUDULUI"
+        }, 
+        {
+            "lat": 44.38884910040571, 
+            "id_buster": "1349", 
+            "long": 26.117051200052913, 
+            "den": "BD. ALEXANDRU OBREGIA"
+        }, 
+        {
+            "lat": 44.3876432616111, 
+            "id_buster": "1750", 
+            "long": 26.109160415415584, 
+            "den": "BD. CONSTANTIN BRANCOVEANU"
+        }, 
+        {
+            "lat": 44.38803566834608, 
+            "id_buster": "1748", 
+            "long": 26.104240977674, 
+            "den": "RESITA"
+        }, 
+        {
+            "lat": 44.38517802707144, 
+            "id_buster": "1747", 
+            "long": 26.10200541666973, 
+            "den": "STRAJA"
+        }, 
+        {
+            "lat": 44.37952361469806, 
+            "id_buster": "1625", 
+            "long": 26.099069174280714, 
+            "den": "PIATA RESITA"
+        }
+    ]
+}

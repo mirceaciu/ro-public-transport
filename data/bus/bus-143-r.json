@@ -1,0 +1,71 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.44711489963299, 
+            "id_buster": "472", 
+            "long": 26.143556399808062, 
+            "den": "BAICULUI"
+        }, 
+        {
+            "lat": 44.44865159999142, 
+            "id_buster": "426", 
+            "long": 26.147516499686787, 
+            "den": "ELECTRONICA"
+        }, 
+        {
+            "lat": 44.449888999677626, 
+            "id_buster": "441", 
+            "long": 26.14810690011342, 
+            "den": "DIMITRIE GROZDEA"
+        }, 
+        {
+            "lat": 44.45144989989302, 
+            "id_buster": "434", 
+            "long": 26.146097200425515, 
+            "den": "COMPLEX COMERCIAL"
+        }, 
+        {
+            "lat": 44.453931300289355, 
+            "id_buster": "459", 
+            "long": 26.142226700002254, 
+            "den": "HELIADE INTRE VII"
+        }, 
+        {
+            "lat": 44.455503399762165, 
+            "id_buster": "449", 
+            "long": 26.143377899670384, 
+            "den": "SCOALA GENERALA 145"
+        }, 
+        {
+            "lat": 44.45784859963322, 
+            "id_buster": "157", 
+            "long": 26.13833880039539, 
+            "den": "SCUT - GHERASE"
+        }, 
+        {
+            "lat": 44.45940999987164, 
+            "id_buster": "156", 
+            "long": 26.13650609987667, 
+            "den": "CONSTANTA"
+        }, 
+        {
+            "lat": 44.460683400318715, 
+            "id_buster": "146", 
+            "long": 26.13237939968957, 
+            "den": "DOAMNA GHICA"
+        }, 
+        {
+            "lat": 44.456176900243804, 
+            "id_buster": "461", 
+            "long": 26.129360200213114, 
+            "den": "TEIUL DOAMNEI"
+        }, 
+        {
+            "lat": 44.45088820043014, 
+            "id_buster": "455", 
+            "long": 26.125527400269334, 
+            "den": "BUCUR OBOR"
+        }
+    ]
+}

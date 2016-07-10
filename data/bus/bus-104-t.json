@@ -1,0 +1,155 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.43928929956155, 
+            "id_buster": "681", 
+            "long": 26.188808099814025, 
+            "den": "CORA PANTELIMON"
+        }, 
+        {
+            "lat": 44.44060310025293, 
+            "id_buster": "956", 
+            "long": 26.19195400027695, 
+            "den": "SOSEAUA DUDESTI-PANTELIMON"
+        }, 
+        {
+            "lat": 44.44041840018906, 
+            "id_buster": "715", 
+            "long": 26.184340099715882, 
+            "den": "GRANITUL"
+        }, 
+        {
+            "lat": 44.44197919968036, 
+            "id_buster": "717", 
+            "long": 26.174639700062187, 
+            "den": "SPITALUL PANTELIMON"
+        }, 
+        {
+            "lat": 44.44262509996844, 
+            "id_buster": "718", 
+            "long": 26.164910499619907, 
+            "den": "SOSEAUA FUNDENI"
+        }, 
+        {
+            "lat": 44.44310969965295, 
+            "id_buster": "660", 
+            "long": 26.155836199880753, 
+            "den": "BD. CHISINAU"
+        }, 
+        {
+            "lat": 44.442580999913275, 
+            "id_buster": "728", 
+            "long": 26.15005480018891, 
+            "den": "SOSEAUA IANCULUI"
+        }, 
+        {
+            "lat": 44.44105689995604, 
+            "id_buster": "723", 
+            "long": 26.14992350006952, 
+            "den": "BD. PIERRE DE COUBERTIN"
+        }, 
+        {
+            "lat": 44.44010070028713, 
+            "id_buster": "721", 
+            "long": 26.145975700218457, 
+            "den": "AURA BUZESCU"
+        }, 
+        {
+            "lat": 44.43873270015405, 
+            "id_buster": "726", 
+            "long": 26.140717099814367, 
+            "den": "LT. VICTOR MANU"
+        }, 
+        {
+            "lat": 44.43699140043282, 
+            "id_buster": "735", 
+            "long": 26.136444099715504, 
+            "den": "VATRA LUMINOASA"
+        }, 
+        {
+            "lat": 44.43156530039835, 
+            "id_buster": "734", 
+            "long": 26.13794459966357, 
+            "den": "PIATA HURMUZACHI"
+        }, 
+        {
+            "lat": 44.42811009970137, 
+            "id_buster": "731", 
+            "long": 26.132150100446836, 
+            "den": "DRISTORULUI"
+        }, 
+        {
+            "lat": 44.425743200088675, 
+            "id_buster": "742", 
+            "long": 26.127313600442335, 
+            "den": "PIATA ALBA IULIA"
+        }, 
+        {
+            "lat": 44.425941700249325, 
+            "id_buster": "743", 
+            "long": 26.122725000358514, 
+            "den": "LUCIAN BLAGA"
+        }, 
+        {
+            "lat": 44.4261272996352, 
+            "id_buster": "753", 
+            "long": 26.118418999637186, 
+            "den": "TRAIAN"
+        }, 
+        {
+            "lat": 44.42644930009516, 
+            "id_buster": "737", 
+            "long": 26.11139570005156, 
+            "den": "BIBLIOTECA NATIONALA A ROMANIE"
+        }, 
+        {
+            "lat": 44.42674139989572, 
+            "id_buster": "738", 
+            "long": 26.105047599766976, 
+            "den": "BD. I. C. BRATIANU"
+        }, 
+        {
+            "lat": 44.42906160041258, 
+            "id_buster": "621", 
+            "long": 26.10244000020589, 
+            "den": "PIATA UNIRII"
+        }, 
+        {
+            "lat": 44.42996850014623, 
+            "id_buster": "745", 
+            "long": 26.096928300001082, 
+            "den": "PIATA NATIUNILE UNITE"
+        }, 
+        {
+            "lat": 44.43337559970422, 
+            "id_buster": "739", 
+            "long": 26.091712500131848, 
+            "den": "ELIE RADU"
+        }, 
+        {
+            "lat": 44.43357280034451, 
+            "id_buster": "751", 
+            "long": 26.088751699931038, 
+            "den": "POD IZVOR"
+        }, 
+        {
+            "lat": 44.433878100394054, 
+            "id_buster": "748", 
+            "long": 26.083856799751572, 
+            "den": "POD HASDEU"
+        }, 
+        {
+            "lat": 44.43410119971065, 
+            "id_buster": "740", 
+            "long": 26.08086130010895, 
+            "den": "OPERA NATIONALA"
+        }, 
+        {
+            "lat": 44.43410119971065, 
+            "id_buster": "740", 
+            "long": 26.08086130010895, 
+            "den": "OPERA NATIONALA"
+        }
+    ]
+}

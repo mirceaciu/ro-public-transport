@@ -1,0 +1,65 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.39776002906335, 
+            "id_buster": "1709", 
+            "long": 26.04360947579969, 
+            "den": "DEPOUL ALEXANDRIA"
+        }, 
+        {
+            "lat": 44.39919450709491, 
+            "id_buster": "1636", 
+            "long": 26.0488092947914, 
+            "den": "SOSEAUA MAGURELE"
+        }, 
+        {
+            "lat": 44.394948583506604, 
+            "id_buster": "1637", 
+            "long": 26.048237617011033, 
+            "den": "CARACAL"
+        }, 
+        {
+            "lat": 44.395522069916225, 
+            "id_buster": "1635", 
+            "long": 26.05495332651513, 
+            "den": "TOBOSARI"
+        }, 
+        {
+            "lat": 44.39986630221639, 
+            "id_buster": "1634", 
+            "long": 26.056039890401628, 
+            "den": "GUTUILOR"
+        }, 
+        {
+            "lat": 44.40317518370008, 
+            "id_buster": "1713", 
+            "long": 26.057554460415815, 
+            "den": "TEIUS"
+        }, 
+        {
+            "lat": 44.40443484187299, 
+            "id_buster": "1711", 
+            "long": 26.062148944471687, 
+            "den": "PIATA RAHOVA"
+        }, 
+        {
+            "lat": 44.40132057787237, 
+            "id_buster": "1632", 
+            "long": 26.06254799060654, 
+            "den": "COMPLEX COMERCIAL"
+        }, 
+        {
+            "lat": 44.398435638048035, 
+            "id_buster": "1631", 
+            "long": 26.06189356998954, 
+            "den": "PETRE GRIGOREANU"
+        }, 
+        {
+            "lat": 44.39407033756774, 
+            "id_buster": "1630", 
+            "long": 26.06143622776526, 
+            "den": "PIATA PUCHENI"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.3796623204514, 
+            "id_buster": "1626", 
+            "long": 26.099310632922148, 
+            "den": "PIATA RESITA"
+        }, 
+        {
+            "lat": 44.384132985719845, 
+            "id_buster": "1746", 
+            "long": 26.10110276754284, 
+            "den": "STRAJA"
+        }, 
+        {
+            "lat": 44.38839044477357, 
+            "id_buster": "1749", 
+            "long": 26.10548663346912, 
+            "den": "IZVORUL RECE"
+        }, 
+        {
+            "lat": 44.3876432616111, 
+            "id_buster": "1750", 
+            "long": 26.109160415415584, 
+            "den": "BD. CONSTANTIN BRANCOVEANU"
+        }, 
+        {
+            "lat": 44.38884910040571, 
+            "id_buster": "1349", 
+            "long": 26.117051200052913, 
+            "den": "BD. ALEXANDRU OBREGIA"
+        }, 
+        {
+            "lat": 44.39174939961515, 
+            "id_buster": "635", 
+            "long": 26.12017179988868, 
+            "den": "PIATA SUDULUI"
+        }, 
+        {
+            "lat": 44.4005344000426, 
+            "id_buster": "636", 
+            "long": 26.121077199553156, 
+            "den": "PRIDVORULUI"
+        }, 
+        {
+            "lat": 44.40323860028121, 
+            "id_buster": "630", 
+            "long": 26.12117830043826, 
+            "den": "COSTACHE STAMATE"
+        }, 
+        {
+            "lat": 44.40800199979253, 
+            "id_buster": "629", 
+            "long": 26.1201579997919, 
+            "den": "BD.TINERETULUI"
+        }, 
+        {
+            "lat": 44.408464000413346, 
+            "id_buster": "634", 
+            "long": 26.11603329969705, 
+            "den": "PALATUL NATIONAL AL COPIILOR"
+        }, 
+        {
+            "lat": 44.409704500062674, 
+            "id_buster": "11", 
+            "long": 26.112110400274787, 
+            "den": "PARCUL TINERETULUI"
+        }, 
+        {
+            "lat": 44.41070069977752, 
+            "id_buster": "637", 
+            "long": 26.110107600185643, 
+            "den": "VISANA"
+        }, 
+        {
+            "lat": 44.41525580011512, 
+            "id_buster": "632", 
+            "long": 26.10458500019763, 
+            "den": "COLEGIUL NATIONAL GH. SINCAI"
+        }, 
+        {
+            "lat": 44.420448199624786, 
+            "id_buster": "628", 
+            "long": 26.104158699964103, 
+            "den": "BD. MARASESTI"
+        }, 
+        {
+            "lat": 44.43270200029713, 
+            "id_buster": "1339", 
+            "long": 26.103620999809323, 
+            "den": "PIATA SF. GHEORGHE"
+        }, 
+        {
+            "lat": 44.434467300225776, 
+            "id_buster": "608", 
+            "long": 26.103084500249565, 
+            "den": "UNIVERSITATE"
+        }, 
+        {
+            "lat": 44.43936700008703, 
+            "id_buster": "1327", 
+            "long": 26.100593399765614, 
+            "den": "BD. NICOLAE BALCESCU"
+        }, 
+        {
+            "lat": 44.445409199574954, 
+            "id_buster": "1143", 
+            "long": 26.097606500339793, 
+            "den": "PIATA ROMANA"
+        }, 
+        {
+            "lat": 44.44902500030355, 
+            "id_buster": "999", 
+            "long": 26.092880400210333, 
+            "den": "POVERNEI"
+        }, 
+        {
+            "lat": 44.45152370005877, 
+            "id_buster": "1146", 
+            "long": 26.08791050016947, 
+            "den": "PIATA VICTORIEI"
+        }
+    ]
+}

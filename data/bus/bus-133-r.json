@@ -1,0 +1,137 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.40800199979253, 
+            "id_buster": "629", 
+            "long": 26.1201579997919, 
+            "den": "BD.TINERETULUI"
+        }, 
+        {
+            "lat": 44.41012160023172, 
+            "id_buster": "1175", 
+            "long": 26.11608569959543, 
+            "den": "BD. ABATORULUI"
+        }, 
+        {
+            "lat": 44.41292920002263, 
+            "id_buster": "1195", 
+            "long": 26.114262399690062, 
+            "den": "PIATA TIMPURI NOI"
+        }, 
+        {
+            "lat": 44.41609640002889, 
+            "id_buster": "1191", 
+            "long": 26.113442799845416, 
+            "den": "UNIV. CRESTINA DIMITRIE CANTE"
+        }, 
+        {
+            "lat": 44.41941750011762, 
+            "id_buster": "1192", 
+            "long": 26.11529310009655, 
+            "den": "SCOALA GENERALA 81"
+        }, 
+        {
+            "lat": 44.42143510034964, 
+            "id_buster": "1189", 
+            "long": 26.1169107996937, 
+            "den": "PAPAZOGLU"
+        }, 
+        {
+            "lat": 44.42305110022812, 
+            "id_buster": "1186", 
+            "long": 26.118244200209745, 
+            "den": "BD. OCTAVIAN GOGA"
+        }, 
+        {
+            "lat": 44.42643950018282, 
+            "id_buster": "1178", 
+            "long": 26.119220399901565, 
+            "den": "BD.UNIRII"
+        }, 
+        {
+            "lat": 44.431320200067205, 
+            "id_buster": "1184", 
+            "long": 26.1207022002464, 
+            "den": "MATEI BASARAB"
+        }, 
+        {
+            "lat": 44.43342710028048, 
+            "id_buster": "1182", 
+            "long": 26.120940999927257, 
+            "den": "HALA TRAIAN"
+        }, 
+        {
+            "lat": 44.44061359983783, 
+            "id_buster": "597", 
+            "long": 26.12077090035683, 
+            "den": "FOISORUL DE FOC"
+        }, 
+        {
+            "lat": 44.4440394997232, 
+            "id_buster": "179", 
+            "long": 26.117782099764156, 
+            "den": "CALEA MOSILOR"
+        }, 
+        {
+            "lat": 44.445142100027965, 
+            "id_buster": "180", 
+            "long": 26.113439699882292, 
+            "den": "PIATA GEMENI"
+        }, 
+        {
+            "lat": 44.44610789995966, 
+            "id_buster": "452", 
+            "long": 26.107937900313914, 
+            "den": "PIATA SPANIEI"
+        }, 
+        {
+            "lat": 44.446820000242894, 
+            "id_buster": "989", 
+            "long": 26.09975630001327, 
+            "den": "CALEA DOROBANTILOR"
+        }, 
+        {
+            "lat": 44.447208299623355, 
+            "id_buster": "451", 
+            "long": 26.0969673998257, 
+            "den": "PIATA ROMANA"
+        }, 
+        {
+            "lat": 44.445393500110015, 
+            "id_buster": "1180", 
+            "long": 26.09073220043075, 
+            "den": "CALEA VICTORIEI"
+        }, 
+        {
+            "lat": 44.44463669992382, 
+            "id_buster": "1179", 
+            "long": 26.08854969960902, 
+            "den": "CALEA GRIVITEI"
+        }, 
+        {
+            "lat": 44.44330519967525, 
+            "id_buster": "1197", 
+            "long": 26.083722700042642, 
+            "den": "POPA TATU"
+        }, 
+        {
+            "lat": 44.44261499968252, 
+            "id_buster": "1196", 
+            "long": 26.079522800436962, 
+            "den": "BD. DINICU GOLESCU"
+        }, 
+        {
+            "lat": 44.44644070037805, 
+            "id_buster": "514", 
+            "long": 26.072976299816446, 
+            "den": "GARA DE NORD"
+        }, 
+        {
+            "lat": 44.44987370041099, 
+            "id_buster": "438", 
+            "long": 26.067749699988724, 
+            "den": "GARA BASARAB"
+        }
+    ]
+}

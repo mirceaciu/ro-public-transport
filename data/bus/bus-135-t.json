@@ -1,0 +1,167 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.486594200362106, 
+            "id_buster": "842", 
+            "long": 26.11433819994801, 
+            "den": "C.F.R. CONSTANTA"
+        }, 
+        {
+            "lat": 44.484276900158875, 
+            "id_buster": "845", 
+            "long": 26.11011730027326, 
+            "den": "PIPERA"
+        }, 
+        {
+            "lat": 44.483122999826605, 
+            "id_buster": "844", 
+            "long": 26.10810570031788, 
+            "den": "MARIN DRACEA"
+        }, 
+        {
+            "lat": 44.4806017999332, 
+            "id_buster": "148", 
+            "long": 26.10341400015602, 
+            "den": "BARBU VACARESCU"
+        }, 
+        {
+            "lat": 44.47929370004425, 
+            "id_buster": "103", 
+            "long": 26.101628399830815, 
+            "den": "AUREL VLAICU"
+        }, 
+        {
+            "lat": 44.47519739964031, 
+            "id_buster": "104", 
+            "long": 26.10404029972011, 
+            "den": "SOSEAUA FABRICA DE GLUCOZA"
+        }, 
+        {
+            "lat": 44.469754100071725, 
+            "id_buster": "983", 
+            "long": 26.104074900236526, 
+            "den": "ANCUTA BANEASA"
+        }, 
+        {
+            "lat": 44.46563790036885, 
+            "id_buster": "539", 
+            "long": 26.102045199626332, 
+            "den": "MIRCEA ELIADE"
+        }, 
+        {
+            "lat": 44.46224350013745, 
+            "id_buster": "93", 
+            "long": 26.101413999656415, 
+            "den": "GEORGE CALINESCU"
+        }, 
+        {
+            "lat": 44.46026649979916, 
+            "id_buster": "173", 
+            "long": 26.101024399856215, 
+            "den": "PIATA FLOREASCA"
+        }, 
+        {
+            "lat": 44.454716099968095, 
+            "id_buster": "174", 
+            "long": 26.100754399995594, 
+            "den": "SOSEAUA STEFAN CEL MARE"
+        }, 
+        {
+            "lat": 44.45288100005814, 
+            "id_buster": "1431", 
+            "long": 26.10398949971568, 
+            "den": "STADIONUL DINAMO"
+        }, 
+        {
+            "lat": 44.44863329968706, 
+            "id_buster": "1433", 
+            "long": 26.107272699675377, 
+            "den": "TEATRUL METROPOLIS"
+        }, 
+        {
+            "lat": 44.44533459991192, 
+            "id_buster": "176", 
+            "long": 26.112288199840577, 
+            "den": "PIATA GEMENI"
+        }, 
+        {
+            "lat": 44.4437516995813, 
+            "id_buster": "458", 
+            "long": 26.11878439958042, 
+            "den": "CALEA MOSILOR"
+        }, 
+        {
+            "lat": 44.44029740000508, 
+            "id_buster": "595", 
+            "long": 26.120493699624603, 
+            "den": "FOISORUL DE FOC"
+        }, 
+        {
+            "lat": 44.43947890003125, 
+            "id_buster": "982", 
+            "long": 26.123792900322144, 
+            "den": "SCOALA IANCULUI"
+        }, 
+        {
+            "lat": 44.44026030027271, 
+            "id_buster": "164", 
+            "long": 26.13431599978361, 
+            "den": "PIATA IANCULUI"
+        }, 
+        {
+            "lat": 44.43699140043282, 
+            "id_buster": "735", 
+            "long": 26.136444099715504, 
+            "den": "VATRA LUMINOASA"
+        }, 
+        {
+            "lat": 44.42834170030926, 
+            "id_buster": "204", 
+            "long": 26.138553000020977, 
+            "den": "GHEORGHE PETRASCU"
+        }, 
+        {
+            "lat": 44.425536200435374, 
+            "id_buster": "166", 
+            "long": 26.137435700297374, 
+            "den": "BABA NOVAC"
+        }, 
+        {
+            "lat": 44.41969879995969, 
+            "id_buster": "65", 
+            "long": 26.136338600246233, 
+            "den": "CALEA DUDESTI"
+        }, 
+        {
+            "lat": 44.414207699625706, 
+            "id_buster": "958", 
+            "long": 26.13312339982508, 
+            "den": "CALEA VITAN"
+        }, 
+        {
+            "lat": 44.41125749973389, 
+            "id_buster": "965", 
+            "long": 26.135893700234135, 
+            "den": "STADION OLIMPIA"
+        }, 
+        {
+            "lat": 44.4089389000103, 
+            "id_buster": "959", 
+            "long": 26.13908490044787, 
+            "den": "COMPLEX COMERCIAL VITAN"
+        }, 
+        {
+            "lat": 44.4068582995709, 
+            "id_buster": "963", 
+            "long": 26.145630800321214, 
+            "den": "ENERGETICIENILOR"
+        }, 
+        {
+            "lat": 44.4057335004008, 
+            "id_buster": "692", 
+            "long": 26.148108400182593, 
+            "den": "C.E.T. SUD VITAN"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.450580900288344, 
+            "id_buster": "454", 
+            "long": 26.12559350043972, 
+            "den": "BUCUR OBOR"
+        }, 
+        {
+            "lat": 44.45468730007889, 
+            "id_buster": "462", 
+            "long": 26.128566900142403, 
+            "den": "ZIDURI MOSI"
+        }, 
+        {
+            "lat": 44.45855039998105, 
+            "id_buster": "460", 
+            "long": 26.131185199837148, 
+            "den": "SUVEICA"
+        }, 
+        {
+            "lat": 44.461319399970364, 
+            "id_buster": "154", 
+            "long": 26.13295039994108, 
+            "den": "DOAMNA GHICA"
+        }, 
+        {
+            "lat": 44.45904929978542, 
+            "id_buster": "155", 
+            "long": 26.136688000351, 
+            "den": "CONSTANTA"
+        }, 
+        {
+            "lat": 44.457058299700805, 
+            "id_buster": "153", 
+            "long": 26.139053100420313, 
+            "den": "SCUT - GHERASE"
+        }, 
+        {
+            "lat": 44.45519720039056, 
+            "id_buster": "470", 
+            "long": 26.143156599897225, 
+            "den": "SCOALA GENERALA 145"
+        }, 
+        {
+            "lat": 44.45354919993571, 
+            "id_buster": "463", 
+            "long": 26.14239590025062, 
+            "den": "DUMITRU SLUGERU"
+        }, 
+        {
+            "lat": 44.45100509970564, 
+            "id_buster": "440", 
+            "long": 26.14670779962529, 
+            "den": "COMPLEX COMERCIAL"
+        }, 
+        {
+            "lat": 44.449888999677626, 
+            "id_buster": "441", 
+            "long": 26.14810690011342, 
+            "den": "DIMITRIE GROZDEA"
+        }, 
+        {
+            "lat": 44.44862640008836, 
+            "id_buster": "427", 
+            "long": 26.146872600390225, 
+            "den": "ELECTRONICA"
+        }, 
+        {
+            "lat": 44.44653580008713, 
+            "id_buster": "464", 
+            "long": 26.143715899968868, 
+            "den": "BAICULUI"
+        }, 
+        {
+            "lat": 44.446515700239445, 
+            "id_buster": "468", 
+            "long": 26.1353700996504, 
+            "den": "SOSEAUA PANTELIMON"
+        }, 
+        {
+            "lat": 44.448300099969686, 
+            "id_buster": "466", 
+            "long": 26.14064069970857, 
+            "den": "GARA OBOR"
+        }, 
+        {
+            "lat": 44.44711489963299, 
+            "id_buster": "472", 
+            "long": 26.143556399808062, 
+            "den": "BAICULUI"
+        }
+    ]
+}

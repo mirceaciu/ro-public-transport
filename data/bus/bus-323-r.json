@@ -1,0 +1,83 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.387002900163736, 
+            "id_buster": "1417", 
+            "long": 26.078186200133075, 
+            "den": "ZETARILOR"
+        }, 
+        {
+            "lat": 44.38946619990526, 
+            "id_buster": "1419", 
+            "long": 26.08027289977457, 
+            "den": "VALTOAREI"
+        }, 
+        {
+            "lat": 44.39256009976884, 
+            "id_buster": "1420", 
+            "long": 26.08241839978939, 
+            "den": "VADUL NOU"
+        }, 
+        {
+            "lat": 44.39136645053527, 
+            "id_buster": "1815", 
+            "long": 26.0863410693838, 
+            "den": "C.F.R."
+        }, 
+        {
+            "lat": 44.390496900311746, 
+            "id_buster": "1347", 
+            "long": 26.092831299924626, 
+            "den": "TOPORASI"
+        }, 
+        {
+            "lat": 44.39362529996765, 
+            "id_buster": "1345", 
+            "long": 26.094255100292685, 
+            "den": "PIATA PROGRESUL"
+        }, 
+        {
+            "lat": 44.39813120019477, 
+            "id_buster": "273", 
+            "long": 26.096249700363444, 
+            "den": "MUZEUL BACOVIA"
+        }, 
+        {
+            "lat": 44.40257999976723, 
+            "id_buster": "243", 
+            "long": 26.097359899939477, 
+            "den": "SURA MARE"
+        }, 
+        {
+            "lat": 44.40618300044514, 
+            "id_buster": "901", 
+            "long": 26.095942199672834, 
+            "den": "CIMITIRUL EROILOR REVOLUTIEI"
+        }, 
+        {
+            "lat": 44.409253400124385, 
+            "id_buster": "905", 
+            "long": 26.097517700381616, 
+            "den": "CUTITUL DE ARGINT"
+        }, 
+        {
+            "lat": 44.41110330017722, 
+            "id_buster": "895", 
+            "long": 26.099988600293727, 
+            "den": "ADESGO"
+        }, 
+        {
+            "lat": 44.414513817304005, 
+            "id_buster": "1613", 
+            "long": 26.10533656805178, 
+            "den": "COLEGIUL NATIONAL GH. SINCAI"
+        }, 
+        {
+            "lat": 44.41609640002889, 
+            "id_buster": "1191", 
+            "long": 26.113442799845416, 
+            "den": "UNIV. CRESTINA DIMITRIE CANTE"
+        }
+    ]
+}

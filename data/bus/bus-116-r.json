@@ -1,0 +1,155 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.365833899714744, 
+            "id_buster": "929", 
+            "long": 26.090952000134735, 
+            "den": "GARA PROGRESUL"
+        }, 
+        {
+            "lat": 44.369437100042205, 
+            "id_buster": "1447", 
+            "long": 26.089368900154682, 
+            "den": "C.F.R. PROGRESUL"
+        }, 
+        {
+            "lat": 44.37383609965633, 
+            "id_buster": "921", 
+            "long": 26.090533300071797, 
+            "den": "RADUCANU CRISTEA"
+        }, 
+        {
+            "lat": 44.37785080007444, 
+            "id_buster": "915", 
+            "long": 26.091604200173776, 
+            "den": "LUICA"
+        }, 
+        {
+            "lat": 44.37805860012435, 
+            "id_buster": "919", 
+            "long": 26.09806020021813, 
+            "den": "RESITA"
+        }, 
+        {
+            "lat": 44.37745369992837, 
+            "id_buster": "927", 
+            "long": 26.10223820043268, 
+            "den": "UCEA"
+        }, 
+        {
+            "lat": 44.37673999975124, 
+            "id_buster": "910", 
+            "long": 26.107155199652766, 
+            "den": "IZVORUL OLTULUI"
+        }, 
+        {
+            "lat": 44.37777790013001, 
+            "id_buster": "926", 
+            "long": 26.110142000153246, 
+            "den": "COVASNA"
+        }, 
+        {
+            "lat": 44.38149250037867, 
+            "id_buster": "913", 
+            "long": 26.110054600439526, 
+            "den": "LAMOTESTI"
+        }, 
+        {
+            "lat": 44.38492100020403, 
+            "id_buster": "909", 
+            "long": 26.109998499830965, 
+            "den": "IZVORUL CRISULUI"
+        }, 
+        {
+            "lat": 44.38685300026583, 
+            "id_buster": "907", 
+            "long": 26.109960499877218, 
+            "den": "NITU VASILE"
+        }, 
+        {
+            "lat": 44.38930349995661, 
+            "id_buster": "924", 
+            "long": 26.109894799905135, 
+            "den": "SPITALUL DE COPII"
+        }, 
+        {
+            "lat": 44.392449000221234, 
+            "id_buster": "923", 
+            "long": 26.109861700357214, 
+            "den": "SECUILOR"
+        }, 
+        {
+            "lat": 44.39884850035804, 
+            "id_buster": "899", 
+            "long": 26.10821929998076, 
+            "den": "BD. CONSTANTIN BRANCOVEANU"
+        }, 
+        {
+            "lat": 44.40029320007119, 
+            "id_buster": "918", 
+            "long": 26.103749799813443, 
+            "den": "OPRIS ILIE"
+        }, 
+        {
+            "lat": 44.402285399851394, 
+            "id_buster": "903", 
+            "long": 26.098505600253304, 
+            "den": "CIMITIRUL SERBAN VODA"
+        }, 
+        {
+            "lat": 44.40618300044514, 
+            "id_buster": "901", 
+            "long": 26.095942199672834, 
+            "den": "CIMITIRUL EROILOR REVOLUTIEI"
+        }, 
+        {
+            "lat": 44.409253400124385, 
+            "id_buster": "905", 
+            "long": 26.097517700381616, 
+            "den": "CUTITUL DE ARGINT"
+        }, 
+        {
+            "lat": 44.41161569970484, 
+            "id_buster": "896", 
+            "long": 26.10074960031386, 
+            "den": "ADESGO"
+        }, 
+        {
+            "lat": 44.41525580011512, 
+            "id_buster": "632", 
+            "long": 26.10458500019763, 
+            "den": "COLEGIUL NATIONAL GH. SINCAI"
+        }, 
+        {
+            "lat": 44.420448199624786, 
+            "id_buster": "628", 
+            "long": 26.104158699964103, 
+            "den": "BD. MARASESTI"
+        }, 
+        {
+            "lat": 44.426593099891704, 
+            "id_buster": "626", 
+            "long": 26.10487109972155, 
+            "den": "BD. I. C. BRATIANU"
+        }, 
+        {
+            "lat": 44.4270132001991, 
+            "id_buster": "627", 
+            "long": 26.112043100408812, 
+            "den": "MIRCEA VODA"
+        }, 
+        {
+            "lat": 44.43099489999469, 
+            "id_buster": "633", 
+            "long": 26.111464400161992, 
+            "den": "MATEI BASARAB"
+        }, 
+        {
+            "lat": 44.429897600294055, 
+            "id_buster": "619", 
+            "long": 26.106609300378977, 
+            "den": "PIATA SFANTA VINERI"
+        }
+    ]
+}

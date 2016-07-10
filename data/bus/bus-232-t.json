@@ -1,0 +1,143 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.36260540011915, 
+            "id_buster": "1081", 
+            "long": 26.1230735002419, 
+            "den": "PLATFORMA COMERCIALA ARCADE BE"
+        }, 
+        {
+            "lat": 44.365702099572275, 
+            "id_buster": "1099", 
+            "long": 26.12565210026429, 
+            "den": "METRO BERCENI"
+        }, 
+        {
+            "lat": 44.371234799846206, 
+            "id_buster": "1104", 
+            "long": 26.12298129994707, 
+            "den": "SERE"
+        }, 
+        {
+            "lat": 44.37286869983069, 
+            "id_buster": "1095", 
+            "long": 26.1221971999409, 
+            "den": "EDITURA ARAMIS"
+        }, 
+        {
+            "lat": 44.377311099827466, 
+            "id_buster": "1091", 
+            "long": 26.121641599680117, 
+            "den": "BD. ALEXANDRU OBREGIA"
+        }, 
+        {
+            "lat": 44.378142399851924, 
+            "id_buster": "1094", 
+            "long": 26.12403799975391, 
+            "den": "CICEU"
+        }, 
+        {
+            "lat": 44.37934870008252, 
+            "id_buster": "1097", 
+            "long": 26.128129600300838, 
+            "den": "EMIL RACOVITA"
+        }, 
+        {
+            "lat": 44.38050830031784, 
+            "id_buster": "1109", 
+            "long": 26.134114100185627, 
+            "den": "CARTIER APARATORII PATRIEI"
+        }, 
+        {
+            "lat": 44.382707999774425, 
+            "id_buster": "1107", 
+            "long": 26.131984000161538, 
+            "den": "TOMESTI"
+        }, 
+        {
+            "lat": 44.38655109965356, 
+            "id_buster": "1087", 
+            "long": 26.12833170044769, 
+            "den": "SPITALUL DR. MARINESCU"
+        }, 
+        {
+            "lat": 44.38956279968352, 
+            "id_buster": "1089", 
+            "long": 26.125483700412474, 
+            "den": "AMIRO"
+        }, 
+        {
+            "lat": 44.393579900392126, 
+            "id_buster": "1111", 
+            "long": 26.12187249971612, 
+            "den": "PIATA SUDULUI"
+        }, 
+        {
+            "lat": 44.3963543997358, 
+            "id_buster": "432", 
+            "long": 26.114749700038658, 
+            "den": "HUSI"
+        }, 
+        {
+            "lat": 44.39884850035804, 
+            "id_buster": "899", 
+            "long": 26.10821929998076, 
+            "den": "BD. CONSTANTIN BRANCOVEANU"
+        }, 
+        {
+            "lat": 44.40029320007119, 
+            "id_buster": "918", 
+            "long": 26.103749799813443, 
+            "den": "OPRIS ILIE"
+        }, 
+        {
+            "lat": 44.402285399851394, 
+            "id_buster": "903", 
+            "long": 26.098505600253304, 
+            "den": "CIMITIRUL SERBAN VODA"
+        }, 
+        {
+            "lat": 44.40577999984714, 
+            "id_buster": "1112", 
+            "long": 26.095374800306843, 
+            "den": "PIATA EROII REVOLUTIEI"
+        }, 
+        {
+            "lat": 44.408485600330266, 
+            "id_buster": "1086", 
+            "long": 26.09101169983012, 
+            "den": "STEFAN HEPITES"
+        }, 
+        {
+            "lat": 44.411830599902316, 
+            "id_buster": "1110", 
+            "long": 26.089110999772856, 
+            "den": "DR. CONSTANTIN ISTRATI"
+        }, 
+        {
+            "lat": 44.41548279979145, 
+            "id_buster": "1083", 
+            "long": 26.092630299648647, 
+            "den": "AUTOGARA FILARET"
+        }, 
+        {
+            "lat": 44.419763999908696, 
+            "id_buster": "1082", 
+            "long": 26.09514419974505, 
+            "den": "PARCUL CAROL I"
+        }, 
+        {
+            "lat": 44.42366530031342, 
+            "id_buster": "613", 
+            "long": 26.09547190010818, 
+            "den": "PATRIARHIA ROMANA"
+        }, 
+        {
+            "lat": 44.42657819992405, 
+            "id_buster": "931", 
+            "long": 26.100314100015737, 
+            "den": "PIATA UNIRII"
+        }
+    ]
+}

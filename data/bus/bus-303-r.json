@@ -1,0 +1,47 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.37822040971303, 
+            "id_buster": "1647", 
+            "long": 26.04703558925707, 
+            "den": "PECINISCA"
+        }, 
+        {
+            "lat": 44.38156545923036, 
+            "id_buster": "1645", 
+            "long": 26.046415017982323, 
+            "den": "CURTEA DE ARGES"
+        }, 
+        {
+            "lat": 44.38419265679311, 
+            "id_buster": "1643", 
+            "long": 26.04679939606886, 
+            "den": "SLATINA"
+        }, 
+        {
+            "lat": 44.389296189990866, 
+            "id_buster": "1640", 
+            "long": 26.047491427066134, 
+            "den": "SOSEAUA VARTEJULUI"
+        }, 
+        {
+            "lat": 44.39307597956133, 
+            "id_buster": "1639", 
+            "long": 26.047975848764235, 
+            "den": "VENUS"
+        }, 
+        {
+            "lat": 44.39850310043778, 
+            "id_buster": "1287", 
+            "long": 26.04872320031552, 
+            "den": "SOSEAUA ALEXANDRIEI"
+        }, 
+        {
+            "lat": 44.398656527999904, 
+            "id_buster": "1710", 
+            "long": 26.044575870386268, 
+            "den": "DEPOUL ALEXANDRIA"
+        }
+    ]
+}

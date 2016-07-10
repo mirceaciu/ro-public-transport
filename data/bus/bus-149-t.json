@@ -1,0 +1,83 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.508054900413356, 
+            "id_buster": "1297", 
+            "long": 26.08614379999642, 
+            "den": "COMPLEX COMERCIAL BANEASA"
+        }, 
+        {
+            "lat": 44.495931299989536, 
+            "id_buster": "1128", 
+            "long": 26.07891890028708, 
+            "den": "AEROPORT BANEASA"
+        }, 
+        {
+            "lat": 44.498071299750734, 
+            "id_buster": "863", 
+            "long": 26.072865200268836, 
+            "den": "BRODINA"
+        }, 
+        {
+            "lat": 44.49979759967954, 
+            "id_buster": "861", 
+            "long": 26.067419200036113, 
+            "den": "BIOTERRA"
+        }, 
+        {
+            "lat": 44.493746700150155, 
+            "id_buster": "865", 
+            "long": 26.063608199658745, 
+            "den": "CORALILOR"
+        }, 
+        {
+            "lat": 44.49098540015615, 
+            "id_buster": "875", 
+            "long": 26.06444719967857, 
+            "den": "NUFERILOR"
+        }, 
+        {
+            "lat": 44.488885100067364, 
+            "id_buster": "870", 
+            "long": 26.06528850016423, 
+            "den": "FORADEX"
+        }, 
+        {
+            "lat": 44.48337470028224, 
+            "id_buster": "864", 
+            "long": 26.063664099718494, 
+            "den": "COMBINATUL FONDULUI PLASTIC"
+        }, 
+        {
+            "lat": 44.48142710451072, 
+            "id_buster": "1468", 
+            "long": 26.06366247924132, 
+            "den": "HOTEL PARC"
+        }, 
+        {
+            "lat": 44.48014152578822, 
+            "id_buster": "1466", 
+            "long": 26.067131240675977, 
+            "den": "CITY CENTER"
+        }, 
+        {
+            "lat": 44.4792821659261, 
+            "id_buster": "1464", 
+            "long": 26.069376300160073, 
+            "den": "CASA PRESEI"
+        }, 
+        {
+            "lat": 44.478450293523395, 
+            "id_buster": "1462", 
+            "long": 26.07162135964417, 
+            "den": "PIATA PRESEI"
+        }, 
+        {
+            "lat": 44.475736099841185, 
+            "id_buster": "814", 
+            "long": 26.071974699672694, 
+            "den": "PIATA PRESEI"
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.429897600294055, 
+            "id_buster": "619", 
+            "long": 26.106609300378977, 
+            "den": "PIATA SFANTA VINERI"
+        }, 
+        {
+            "lat": 44.42743550024818, 
+            "id_buster": "605", 
+            "long": 26.1010311996302, 
+            "den": "PIATA UNIRII 1"
+        }, 
+        {
+            "lat": 44.42027059970849, 
+            "id_buster": "439", 
+            "long": 26.104007399821683, 
+            "den": "BD. MARASESTI"
+        }, 
+        {
+            "lat": 44.415026300323575, 
+            "id_buster": "914", 
+            "long": 26.10442950022133, 
+            "den": "COLEGIUL NATIONAL GH. SINCAI"
+        }, 
+        {
+            "lat": 44.41110330017722, 
+            "id_buster": "895", 
+            "long": 26.099988600293727, 
+            "den": "ADESGO"
+        }, 
+        {
+            "lat": 44.40821349965336, 
+            "id_buster": "904", 
+            "long": 26.096421700201347, 
+            "den": "CUTITUL DE ARGINT"
+        }, 
+        {
+            "lat": 44.40665790004209, 
+            "id_buster": "431", 
+            "long": 26.095532500024888, 
+            "den": "CIMITIRUL EROILOR REVOLUTIEI"
+        }, 
+        {
+            "lat": 44.400985199607305, 
+            "id_buster": "902", 
+            "long": 26.10066319974692, 
+            "den": "CIMITIRUL SERBAN VODA"
+        }, 
+        {
+            "lat": 44.399695300198005, 
+            "id_buster": "917", 
+            "long": 26.10552829999108, 
+            "den": "OPRIS ILIE"
+        }, 
+        {
+            "lat": 44.396959600305365, 
+            "id_buster": "898", 
+            "long": 26.109806199596505, 
+            "den": "BD. CONSTANTIN BRANCOVEANU"
+        }, 
+        {
+            "lat": 44.3917404999242, 
+            "id_buster": "922", 
+            "long": 26.109870400398734, 
+            "den": "SECUILOR"
+        }, 
+        {
+            "lat": 44.38930349995661, 
+            "id_buster": "924", 
+            "long": 26.109894799905135, 
+            "den": "SPITALUL DE COPII"
+        }, 
+        {
+            "lat": 44.38666310032187, 
+            "id_buster": "906", 
+            "long": 26.10982859991003, 
+            "den": "IZVORUL RECE"
+        }, 
+        {
+            "lat": 44.384016300212124, 
+            "id_buster": "908", 
+            "long": 26.109884400145006, 
+            "den": "IZVORUL CRISULUI"
+        }, 
+        {
+            "lat": 44.38071780008647, 
+            "id_buster": "912", 
+            "long": 26.10993670021861, 
+            "den": "LAMOTESTI"
+        }, 
+        {
+            "lat": 44.377324499725944, 
+            "id_buster": "925", 
+            "long": 26.11007640000588, 
+            "den": "TURNU MAGURELE"
+        }, 
+        {
+            "lat": 44.37691809969061, 
+            "id_buster": "911", 
+            "long": 26.10591670009569, 
+            "den": "IZVORUL OLTULUI"
+        }, 
+        {
+            "lat": 44.377590799775646, 
+            "id_buster": "928", 
+            "long": 26.101295999610727, 
+            "den": "UCEA"
+        }, 
+        {
+            "lat": 44.37805860012435, 
+            "id_buster": "919", 
+            "long": 26.09806020021813, 
+            "den": "RESITA"
+        }, 
+        {
+            "lat": 44.37856300018234, 
+            "id_buster": "916", 
+            "long": 26.094312200048023, 
+            "den": "LUICA"
+        }, 
+        {
+            "lat": 44.37827450036792, 
+            "id_buster": "897", 
+            "long": 26.09151059963449, 
+            "den": "ANGHEL ALEXANDRU"
+        }, 
+        {
+            "lat": 44.37287279983991, 
+            "id_buster": "920", 
+            "long": 26.090083200179606, 
+            "den": "RADUCANU CRISTEA"
+        }, 
+        {
+            "lat": 44.36999619956504, 
+            "id_buster": "900", 
+            "long": 26.089319399670615, 
+            "den": "C.F.R. PROGRESUL"
+        }, 
+        {
+            "lat": 44.365833899714744, 
+            "id_buster": "929", 
+            "long": 26.090952000134735, 
+            "den": "GARA PROGRESUL"
+        }
+    ]
+}

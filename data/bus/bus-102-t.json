@@ -1,0 +1,107 @@
+{
+    "tip": "bus", 
+    "opriri": [
+        {
+            "lat": 44.43928929956155, 
+            "id_buster": "681", 
+            "long": 26.188808099814025, 
+            "den": "CORA PANTELIMON"
+        }, 
+        {
+            "lat": 44.44060310025293, 
+            "id_buster": "956", 
+            "long": 26.19195400027695, 
+            "den": "SOSEAUA DUDESTI-PANTELIMON"
+        }, 
+        {
+            "lat": 44.439546100072505, 
+            "id_buster": "682", 
+            "long": 26.181836399730116, 
+            "den": "GRANITUL"
+        }, 
+        {
+            "lat": 44.43893099976589, 
+            "id_buster": "683", 
+            "long": 26.178791899626503, 
+            "den": "SPITALUL NICOLAE MALAXA"
+        }, 
+        {
+            "lat": 44.4379416996498, 
+            "id_buster": "684", 
+            "long": 26.17385119967315, 
+            "den": "BODESTI"
+        }, 
+        {
+            "lat": 44.43733259961982, 
+            "id_buster": "685", 
+            "long": 26.170941900048717, 
+            "den": "FACULTATEA DE POMPIERI"
+        }, 
+        {
+            "lat": 44.43676079987108, 
+            "id_buster": "691", 
+            "long": 26.167166199860276, 
+            "den": "SOS. MORARILOR"
+        }, 
+        {
+            "lat": 44.43432579999575, 
+            "id_buster": "647", 
+            "long": 26.16016560006244, 
+            "den": "BD. NICOLAE GRIGORESCU"
+        }, 
+        {
+            "lat": 44.428696499943555, 
+            "id_buster": "652", 
+            "long": 26.16218990024373, 
+            "den": "PARCUL TITAN"
+        }, 
+        {
+            "lat": 44.424612700116086, 
+            "id_buster": "651", 
+            "long": 26.163282799561614, 
+            "den": "LIVIU REBREANU"
+        }, 
+        {
+            "lat": 44.4206364996748, 
+            "id_buster": "654", 
+            "long": 26.164309099585353, 
+            "den": "POLICLINICA TITAN"
+        }, 
+        {
+            "lat": 44.41721090016296, 
+            "id_buster": "655", 
+            "long": 26.16492750040385, 
+            "den": "POSTAVARULUI"
+        }, 
+        {
+            "lat": 44.41327190017813, 
+            "id_buster": "689", 
+            "long": 26.163073000318775, 
+            "den": "PIATA TITAN"
+        }, 
+        {
+            "lat": 44.413856800351084, 
+            "id_buster": "687", 
+            "long": 26.1567505001355, 
+            "den": "ILIOARA"
+        }, 
+        {
+            "lat": 44.41424010040038, 
+            "id_buster": "686", 
+            "long": 26.152310999553038, 
+            "den": "FIZICIENILOR"
+        }, 
+        {
+            "lat": 44.4108447999476, 
+            "id_buster": "690", 
+            "long": 26.148106599739833, 
+            "den": "TANDAREI"
+        }, 
+        {
+            "lat": 44.4057335004008, 
+            "id_buster": "692", 
+            "long": 26.148108400182593, 
+            "den": "C.E.T. SUD VITAN"
+        }
+    ]
+}
