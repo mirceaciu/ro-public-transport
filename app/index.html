@@ -13,10 +13,11 @@
     <!-- endbuild -->
     <!-- build:css(.tmp) styles/main.css -->
     <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/routing-machine.css" />
     <!-- endbuild -->
 
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.css">
-    <link rel="stylesheet" href="styles/routing-machine.css" />
+
   </head>
   <body ng-app="transportApp">
     <!--[if lte IE 8]>
@@ -71,8 +72,9 @@
        ga('create', 'UA-XXXXX-X');
        ga('send', 'pageview');
     </script>
+
     <script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js"></script>
-    <script src="leaflet-routing-machine.js"></script>
+
     </script>
     <!-- build:js(.) scripts/vendor.js -->
     <!-- bower:js -->
@@ -93,6 +95,7 @@
         <script src="scripts/controllers/main.js"></script>
         <script src="scripts/controllers/about.js"></script>
         <script src="scripts/controllers/mapcontrols.js"></script>
+        <script src="leaflet-routing-machine.js"></script>
         <!-- endbuild -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-leaflet-directive/0.10.0/angular-leaflet-directive.min.js"></script>
 
