@@ -24,7 +24,12 @@
         "less/bootstrap.less",
         "dist/css/bootstrap.css",
         "dist/js/bootstrap.js",
-        "dist/angular-leaflet-directive.js"
+        "dist/angular-leaflet-directive.js",
+        "dist/leaflet.routing.icons.png",
+        "dist/leaflet-routing-machine.css",
+        "dist/leaflet.routing.icons.svg",
+        "dist/leaflet-routing-machine.js",
+        "dist/routing-icon.png"
       ]
     }
   }
