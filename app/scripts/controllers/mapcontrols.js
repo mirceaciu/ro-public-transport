@@ -31,7 +31,7 @@ angular.module('transportApp')
   leafletData.getMap().then(function(map) {
     $scope.routingControl =  L.Routing.control({waypoints: $scope.pathCoordinates}).addTo(map);
   });
-
+  L.Icon.Default.imagePath = '../../bower_components/leaflet/dist/images/'
   /* HARD CODED CARS */
   $scope.routeOptions = ['102-t', '104-t', '105-t', '116-r', '116-t', '123-r', '123-t', '124-r', '133-r', '135-t', '137-t', '138-t', '143-r', '143-t', '149-t', '168-t', '178-t', '182-t', '185-r', '185-t', '202-t', '222-r', '222-t', '223-t', '227-r', '227-t', '232-r', '232-t', '236-r', '236-t', '243-r', '268-t', '282-t', '303-r', '313-r', '313-t', '323-r', '323-t', '336-r', '381-r', '381-t', '611-r', '668-r', '682-r'];
 
