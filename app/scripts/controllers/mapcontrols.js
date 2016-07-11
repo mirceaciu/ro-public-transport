@@ -29,7 +29,7 @@ angular.module('transportApp')
 
 // INIT ROUTING
   leafletData.getMap().then(function(map) {
-    $scope.routingControl =  L.Routing.control({waypoints: $scope.pathCoordinates}).addTo(map);
+    $scope.routingControl =  L.Routing.control({waypoints: $scope.pathCoordinates,createMarker: function() { return null; }, routeWhileDragging: false, draggableWaypoints: false}).addTo(map);
   });
   L.Icon.Default.imagePath = 'images';
   /* HARD CODED CARS */
@@ -63,18 +63,19 @@ angular.module('transportApp')
     //set color for direction
     if($scope.routeData.direction === '0' ){
       $scope.routeColor = '#0066ff';
-    }else if ($scope.routeData.direction === '1'){
+    }else{
       $scope.routeColor = '#FF4500';
     }
 
     $scope.routingControl.getPlan().setWaypoints($scope.pathCoordinates);
 
-    $scope.paths = {
-      p1: {
-      color: $scope.routeColor,
-      weight: 6,
-      latlngs: $scope.pathCoordinates
-    }};
+
+    // $scope.paths = {
+    //   p1: {
+    //   color: $scope.routeColor,
+    //   weight: 10,
+    //   latlngs: $scope.pathCoordinates
+    // }};
 
   });
 }; //buttonRequest
