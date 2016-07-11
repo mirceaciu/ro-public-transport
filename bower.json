@@ -9,10 +9,12 @@
     "angular-resource": "^1.4.0",
     "angular-route": "^1.4.0",
     "angular-sanitize": "^1.4.0",
-    "angular-touch": "^1.4.0"
+    "angular-touch": "^1.4.0",
+    "leaflet": "0.7.x"
   },
   "devDependencies": {
     "angular-mocks": "^1.4.0"
+
   },
   "appPath": "app",
   "moduleName": "transportApp",
@@ -21,7 +23,8 @@
       "main": [
         "less/bootstrap.less",
         "dist/css/bootstrap.css",
-        "dist/js/bootstrap.js"
+        "dist/js/bootstrap.js",
+        "dist/angular-leaflet-directive.js"
       ]
     }
   }
