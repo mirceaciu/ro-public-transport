@@ -45,5 +45,8 @@
   },
   "scripts": {
     "test": "grunt test"
+  },
+  "dependencies": {
+    "leaflet-routing-machine": "^2.6.2"
   }
 }
