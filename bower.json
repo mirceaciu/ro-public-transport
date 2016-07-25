@@ -14,12 +14,8 @@
     "angular-swiper": "^0.4.0"
   },
   "devDependencies": {
-<<<<<<< HEAD
-    "angular-mocks": "^1.4.0"
-=======
     "angular-mocks": "^1.4.0",
     "angular-swiper": "^0.4.0"
->>>>>>> swiper
   },
   "appPath": "app",
   "moduleName": "transportApp",

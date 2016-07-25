@@ -109,7 +109,8 @@ margin: 0;
   position: absolute;
   top : 10px;
   left: 0;
-  z-index: 99
+  z-index: 99;
+  width: 100%
 }
 
 .leaflet-form {
@@ -122,6 +123,13 @@ height: 10%
   z-index: 100;
 }
 
+.swiper_box{
+  display: block;
+  background-color: white;
+  padding: 20px;
+  margin: 0 2px;
+}
+
 /*routing from here on*/
 
 .leaflet-routing-container, .leaflet-routing-error {
@@ -130,6 +138,7 @@ height: 10%
     padding-top: 4px;
     transition: all 0.2s ease;
     box-sizing: border-box;
+    display: none;
 }
 
 .leaflet-control-container .leaflet-routing-container-hide {
