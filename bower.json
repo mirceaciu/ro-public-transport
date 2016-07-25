@@ -10,10 +10,16 @@
     "angular-route": "^1.4.0",
     "angular-sanitize": "^1.4.0",
     "angular-touch": "^1.4.0",
-    "leaflet": "0.7.x"
+    "leaflet": "0.7.x",
+    "angular-swiper": "^0.4.0"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "angular-mocks": "^1.4.0"
+=======
+    "angular-mocks": "^1.4.0",
+    "angular-swiper": "^0.4.0"
+>>>>>>> swiper
   },
   "appPath": "app",
   "moduleName": "transportApp",
