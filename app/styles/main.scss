@@ -107,7 +107,7 @@ margin: 0;
 
 .boss{
   position: absolute;
-  top : 10px;
+  top : 0px;
   left: 0;
   z-index: 99;
   width: 100%
@@ -123,11 +123,49 @@ height: 10%
   z-index: 100;
 }
 
+.select-menu{
+  position: relative;
+  left: 40px
+}
+
+.label-slide{
+  position: absolute;
+  width: 40px;
+  height: 48px;
+  background-color: #9B394D;
+  top: 5px;
+  left: 0px;
+  line-height: 43px;
+  z-index: 100;
+  box-shadow: 8px 0px 11px rgba(0,0,0,0.5);
+  font-family: 'Hind', sans-serif;
+  font-size: 1.2em;
+  color: white;
+  font-weight: 600;
+}
+
+.bottom{
+  background-color: #4F3158;
+  top: 53px;
+  left: 0px;
+}
+
 .swiper_box{
-  display: block;
-  background-color: white;
-  padding: 20px;
-  margin: 0 2px;
+  //display: block;
+  //max-width: 100px;
+  //margin: auto;
+  //text-align: center;
+  background-color: #9B394D;
+  font-family: 'Hind', sans-serif;
+  font-size: 1.2em;
+  color: white;
+  font-weight: 600;
+  padding: 10px;
+  margin: 5px 0px;
+}
+
+.retur{
+  background-color: #4F3158;
 }
 
 /*routing from here on*/

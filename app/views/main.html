@@ -1,16 +1,21 @@
 <div ng-init="masina.masina='102-t'; masina.ruta=0; routeRequest()" ng-controller="MapcontrolsCtrl as map" class="leaflet-containter" >
   <div class= "center-container boss" >
-    Alege masina: 	<select class="select-menu" ng-model="masina.masina">
+    <!-- Alege masina: 	<select class="select-menu" ng-model="masina.masina">
                       <option ng-repeat = "car in routeOptions " value="{{car}}">{{car}}</option>
-                    </select>
-
-    Alege ruta: 	<div class="select-menu" ng-model="masina.ruta">
+                    </select> -->
+    <div class="label-slide">
+      tur
+    </div>
+    <div class="label-slide bottom">
+      ret
+    </div>
+    <div class="select-menu" ng-model="masina.masina">
                     <!-- <option  ng-repeat="route in directionsList"  value="{{route}}">Ruta: {{route + 1}}</option> -->
                     <ks-swiper-container swiper="swiper"
-                      slides-per-view="10"
-                      slides-per-column="1"
-                      space-between="0"
-                      pagination-is-active="false"
+                      slides-per-view="3"
+                      slides-per-column="0"
+                      space-between="5"
+                      pagination-is-active="true"
                       pagination-clickable="false"
                       show-nav-buttons="false"
                       loop="false"
@@ -19,23 +24,27 @@
                       direction="horizontal"
                      on-ready="onReadySwiper(swiper)">
                         <ks-swiper-slide ng-repeat="car in routeOptions" class="swiper-slide" >
-                          <p class ='swiper_box'>
-                            {{car}}
-                          </p>
+                          <div class ='swiper_box'>
+                            <a href="/data/bus/{{car}}">{{car}}-tur</a>
+
+                          </div>
+                          <div class ='swiper_box retur'>
+                            {{car}}-ret
+                          </div>
                         </ks-swiper-slide>
                     </ks-swiper-container>
                   </div>
 
-    <button ng-click="routeRequest()">Vizualizare</button>
-    <button ng-click="customRouteRequest()">Adu geometrie</button>
+    <!-- <button ng-click="routeRequest()">Vizualizare</button> -->
+    <!-- <button ng-click="customRouteRequest()">Adu geometrie</button> -->
 
   </div>
 
-  <leaflet center="center" width='100%' height='90%' paths="paths"></leaflet>
+  <leaflet defaults="defaults" center="center" width='100%' height='100%' paths="paths"></leaflet>
 
-  <form class="leaflet-form">
+  <!-- <form class="leaflet-form">
      Latitude : <input class="select-menu max"  type="number" step="0.1" ng-model="center.lat">
      Longitude : <input class="select-menu max" type="number" step="0.1" ng-model="center.lng">
      Zoom : <input class="select-menu max" type="number" step="any" ng-model="center.zoom">
-  </form>
+  </form> -->
 </div>
